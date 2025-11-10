@@ -1,0 +1,2092 @@
+{
+    "Departure": [
+        {
+            "JourneyDetailRef": {
+                "ref": "2|#VN#1#ST#1762512367#PI#0#ZI#34140#TA#4#DA#101125#1S#851072402#1T#908#LS#851012701#LT#944#PU#86#RT#1#CA#028#ZE#17#ZB#Bybus 17#PC#5#FR#851072402#FT#908#TO#851012701#TT#944#"
+            },
+            "JourneyStatus": "P",
+            "ProductAtStop": {
+                "icon": {
+                    "res": "prod_bus"
+                },
+                "operatorInfo": {
+                    "name": "NT",
+                    "nameS": "NT",
+                    "nameN": "NT",
+                    "nameL": "NT"
+                },
+                "name": "Bybus 17",
+                "internalName": "Bybus 17",
+                "displayNumber": "17",
+                "num": "1174",
+                "line": "17",
+                "lineId": "028_280_06_17",
+                "catOut": "Bybus",
+                "catIn": "028",
+                "catCode": "5",
+                "cls": "32",
+                "catOutS": "028",
+                "catOutL": "Bybus",
+                "operatorCode": "NT",
+                "operator": "NT",
+                "admin": "280_06",
+                "matchId": "10301"
+            },
+            "Product": [
+                {
+                    "icon": {
+                        "res": "prod_bus"
+                    },
+                    "operatorInfo": {
+                        "name": "NT",
+                        "nameS": "NT",
+                        "nameN": "NT",
+                        "nameL": "NT"
+                    },
+                    "name": "Bybus 17",
+                    "internalName": "Bybus 17",
+                    "displayNumber": "17",
+                    "num": "1174",
+                    "line": "17",
+                    "lineId": "028_280_06_17",
+                    "catOut": "Bybus",
+                    "catIn": "028",
+                    "catCode": "5",
+                    "cls": "32",
+                    "catOutS": "028",
+                    "catOutL": "Bybus",
+                    "operatorCode": "NT",
+                    "operator": "NT",
+                    "admin": "280_06",
+                    "routeIdxFrom": 9,
+                    "routeIdxTo": 29,
+                    "matchId": "10301"
+                }
+            ],
+            "Notes": {
+                "Note": [
+                    {
+                        "value": "F8951F",
+                        "key": "CT",
+                        "type": "I",
+                        "routeIdxFrom": 9,
+                        "routeIdxTo": 29,
+                        "txtN": "F8951F"
+                    },
+                    {
+                        "value": "NT",
+                        "key": "PU",
+                        "type": "I",
+                        "routeIdxFrom": 9,
+                        "routeIdxTo": 29,
+                        "txtN": "NT"
+                    },
+                    {
+                        "value": "2009",
+                        "key": "bp",
+                        "type": "I",
+                        "routeIdxFrom": 9,
+                        "routeIdxTo": 29,
+                        "txtN": "2009"
+                    },
+                    {
+                        "value": "10301",
+                        "key": "FD",
+                        "type": "I",
+                        "routeIdxFrom": 9,
+                        "routeIdxTo": 29,
+                        "txtN": "10301"
+                    },
+                    {
+                        "key": "FB",
+                        "type": "A"
+                    },
+                    {
+                        "value": "5001",
+                        "key": "TN",
+                        "type": "I",
+                        "txtN": "5001"
+                    },
+                    {
+                        "value": "NT",
+                        "key": "TP",
+                        "type": "I",
+                        "txtN": "NT"
+                    },
+                    {
+                        "value": "NT 001",
+                        "key": "TR",
+                        "type": "I",
+                        "txtN": "NT 001"
+                    },
+                    {
+                        "value": "1",
+                        "key": "TW",
+                        "type": "I",
+                        "txtN": "1"
+                    }
+                ]
+            },
+            "name": "Bybus 17",
+            "type": "ST",
+            "stop": "Tove Ditlevsens Vej  (Aalborg)",
+            "stopid": "A=1@O=Tove Ditlevsens Vej  (Aalborg)@X=9971788@Y=57040404@U=86@L=851972002@",
+            "stopExtId": "851972002",
+            "lon": 9.971788,
+            "lat": 57.040404,
+            "prognosisType": "PROGNOSED",
+            "time": "09:15:00",
+            "date": "2025-11-10",
+            "rtTime": "09:16:00",
+            "rtDate": "2025-11-10",
+            "reachable": true,
+            "direction": "Strubjerg",
+            "directionFlag": "2"
+        },
+        {
+            "JourneyDetailRef": {
+                "ref": "2|#VN#1#ST#1762512367#PI#0#ZI#34135#TA#0#DA#101125#1S#851012702#1T#852#LS#851072401#LT#930#PU#86#RT#1#CA#028#ZE#17#ZB#Bybus 17#PC#5#FR#851012702#FT#852#TO#851072401#TT#930#"
+            },
+            "JourneyStatus": "P",
+            "ProductAtStop": {
+                "icon": {
+                    "res": "prod_bus"
+                },
+                "operatorInfo": {
+                    "name": "NT",
+                    "nameS": "NT",
+                    "nameN": "NT",
+                    "nameL": "NT"
+                },
+                "name": "Bybus 17",
+                "internalName": "Bybus 17",
+                "displayNumber": "17",
+                "num": "1295",
+                "line": "17",
+                "lineId": "028_280_06_17",
+                "catOut": "Bybus",
+                "catIn": "028",
+                "catCode": "5",
+                "cls": "32",
+                "catOutS": "028",
+                "catOutL": "Bybus",
+                "operatorCode": "NT",
+                "operator": "NT",
+                "admin": "280_06",
+                "matchId": "17697"
+            },
+            "Product": [
+                {
+                    "icon": {
+                        "res": "prod_bus"
+                    },
+                    "operatorInfo": {
+                        "name": "NT",
+                        "nameS": "NT",
+                        "nameN": "NT",
+                        "nameL": "NT"
+                    },
+                    "name": "Bybus 17",
+                    "internalName": "Bybus 17",
+                    "displayNumber": "17",
+                    "num": "1295",
+                    "line": "17",
+                    "lineId": "028_280_06_17",
+                    "catOut": "Bybus",
+                    "catIn": "028",
+                    "catCode": "5",
+                    "cls": "32",
+                    "catOutS": "028",
+                    "catOutL": "Bybus",
+                    "operatorCode": "NT",
+                    "operator": "NT",
+                    "admin": "280_06",
+                    "routeIdxFrom": 17,
+                    "routeIdxTo": 29,
+                    "matchId": "17697"
+                }
+            ],
+            "Notes": {
+                "Note": [
+                    {
+                        "value": "F8951F",
+                        "key": "CT",
+                        "type": "I",
+                        "routeIdxFrom": 17,
+                        "routeIdxTo": 29,
+                        "txtN": "F8951F"
+                    },
+                    {
+                        "value": "NT",
+                        "key": "PU",
+                        "type": "I",
+                        "routeIdxFrom": 17,
+                        "routeIdxTo": 29,
+                        "txtN": "NT"
+                    },
+                    {
+                        "value": "2009",
+                        "key": "bp",
+                        "type": "I",
+                        "routeIdxFrom": 17,
+                        "routeIdxTo": 29,
+                        "txtN": "2009"
+                    },
+                    {
+                        "value": "17697",
+                        "key": "FD",
+                        "type": "I",
+                        "routeIdxFrom": 17,
+                        "routeIdxTo": 29,
+                        "txtN": "17697"
+                    },
+                    {
+                        "key": "FB",
+                        "type": "A"
+                    },
+                    {
+                        "value": "5001",
+                        "key": "TN",
+                        "type": "I",
+                        "txtN": "5001"
+                    },
+                    {
+                        "value": "NT",
+                        "key": "TP",
+                        "type": "I",
+                        "txtN": "NT"
+                    },
+                    {
+                        "value": "NT 001",
+                        "key": "TR",
+                        "type": "I",
+                        "txtN": "NT 001"
+                    },
+                    {
+                        "value": "1",
+                        "key": "TW",
+                        "type": "I",
+                        "txtN": "1"
+                    }
+                ]
+            },
+            "name": "Bybus 17",
+            "type": "ST",
+            "stop": "Martinus Rørbyes Vej (Øster Sundby Vej / Aalborg)",
+            "stopid": "A=1@O=Martinus Rørbyes Vej (Øster Sundby Vej / Aalborg)@X=9960704@Y=57044610@U=86@L=851972401@",
+            "stopExtId": "851972401",
+            "lon": 9.960704,
+            "lat": 57.04461,
+            "prognosisType": "PROGNOSED",
+            "time": "09:19:00",
+            "date": "2025-11-10",
+            "rtTime": "09:20:00",
+            "rtDate": "2025-11-10",
+            "reachable": true,
+            "direction": "Saltumvej",
+            "directionFlag": "1"
+        },
+        {
+            "JourneyDetailRef": {
+                "ref": "2|#VN#1#ST#1762512367#PI#0#ZI#34188#TA#0#DA#101125#1S#851981602#1T#917#LS#851805601#LT#1010#PU#86#RT#1#CA#028#ZE#18#ZB#Bybus 18#PC#5#FR#851981602#FT#917#TO#851805601#TT#1010#"
+            },
+            "JourneyStatus": "P",
+            "ProductAtStop": {
+                "icon": {
+                    "res": "prod_bus"
+                },
+                "operatorInfo": {
+                    "name": "NT",
+                    "nameS": "NT",
+                    "nameN": "NT",
+                    "nameL": "NT"
+                },
+                "name": "Bybus 18",
+                "internalName": "Bybus 18",
+                "displayNumber": "18",
+                "num": "1422",
+                "line": "18",
+                "lineId": "028_280_06_18",
+                "catOut": "Bybus",
+                "catIn": "028",
+                "catCode": "5",
+                "cls": "32",
+                "catOutS": "028",
+                "catOutL": "Bybus",
+                "operatorCode": "NT",
+                "operator": "NT",
+                "admin": "280_06",
+                "matchId": "23297"
+            },
+            "Product": [
+                {
+                    "icon": {
+                        "res": "prod_bus"
+                    },
+                    "operatorInfo": {
+                        "name": "NT",
+                        "nameS": "NT",
+                        "nameN": "NT",
+                        "nameL": "NT"
+                    },
+                    "name": "Bybus 18",
+                    "internalName": "Bybus 18",
+                    "displayNumber": "18",
+                    "num": "1422",
+                    "line": "18",
+                    "lineId": "028_280_06_18",
+                    "catOut": "Bybus",
+                    "catIn": "028",
+                    "catCode": "5",
+                    "cls": "32",
+                    "catOutS": "028",
+                    "catOutL": "Bybus",
+                    "operatorCode": "NT",
+                    "operator": "NT",
+                    "admin": "280_06",
+                    "routeIdxFrom": 5,
+                    "routeIdxTo": 42,
+                    "matchId": "23297"
+                }
+            ],
+            "Notes": {
+                "Note": [
+                    {
+                        "value": "F8951F",
+                        "key": "CT",
+                        "type": "I",
+                        "routeIdxFrom": 5,
+                        "routeIdxTo": 42,
+                        "txtN": "F8951F"
+                    },
+                    {
+                        "value": "NT",
+                        "key": "PU",
+                        "type": "I",
+                        "routeIdxFrom": 5,
+                        "routeIdxTo": 42,
+                        "txtN": "NT"
+                    },
+                    {
+                        "value": "2009",
+                        "key": "bp",
+                        "type": "I",
+                        "routeIdxFrom": 5,
+                        "routeIdxTo": 42,
+                        "txtN": "2009"
+                    },
+                    {
+                        "value": "23297",
+                        "key": "FD",
+                        "type": "I",
+                        "routeIdxFrom": 5,
+                        "routeIdxTo": 42,
+                        "txtN": "23297"
+                    },
+                    {
+                        "key": "FB",
+                        "type": "A"
+                    },
+                    {
+                        "value": "5002",
+                        "key": "TN",
+                        "type": "I",
+                        "txtN": "5002"
+                    },
+                    {
+                        "value": "NT",
+                        "key": "TP",
+                        "type": "I",
+                        "txtN": "NT"
+                    },
+                    {
+                        "value": "NT 002",
+                        "key": "TR",
+                        "type": "I",
+                        "txtN": "NT 002"
+                    },
+                    {
+                        "value": "2",
+                        "key": "TW",
+                        "type": "I",
+                        "txtN": "2"
+                    }
+                ]
+            },
+            "name": "Bybus 18",
+            "type": "ST",
+            "stop": "Høstvej (Øster Uttrup Vej / Aalborg)",
+            "stopid": "A=1@O=Høstvej (Øster Uttrup Vej / Aalborg)@X=9977892@Y=57042992@U=86@L=851981302@",
+            "stopExtId": "851981302",
+            "lon": 9.977892,
+            "lat": 57.042992,
+            "time": "09:22:00",
+            "date": "2025-11-10",
+            "reachable": true,
+            "direction": "Sønderholm",
+            "directionFlag": "1"
+        },
+        {
+            "JourneyDetailRef": {
+                "ref": "2|#VN#1#ST#1762512367#PI#0#ZI#34300#TA#4#DA#101125#1S#851000304#1T#916#LS#851012902#LT#939#PU#86#RT#1#CA#028#ZE#6#ZB#Bybus 6#PC#5#FR#851000304#FT#916#TO#851012902#TT#939#"
+            },
+            "JourneyStatus": "P",
+            "ProductAtStop": {
+                "icon": {
+                    "res": "prod_bus"
+                },
+                "operatorInfo": {
+                    "name": "NT",
+                    "nameS": "NT",
+                    "nameN": "NT",
+                    "nameL": "NT"
+                },
+                "name": "Bybus 6",
+                "internalName": "Bybus 6",
+                "displayNumber": "6",
+                "num": "2174",
+                "line": "6",
+                "lineId": "028_280_06_6",
+                "catOut": "Bybus",
+                "catIn": "028",
+                "catCode": "5",
+                "cls": "32",
+                "catOutS": "028",
+                "catOutL": "Bybus",
+                "operatorCode": "NT",
+                "operator": "NT",
+                "admin": "280_06",
+                "matchId": "23414"
+            },
+            "Product": [
+                {
+                    "icon": {
+                        "res": "prod_bus"
+                    },
+                    "operatorInfo": {
+                        "name": "NT",
+                        "nameS": "NT",
+                        "nameN": "NT",
+                        "nameL": "NT"
+                    },
+                    "name": "Bybus 6",
+                    "internalName": "Bybus 6",
+                    "displayNumber": "6",
+                    "num": "2174",
+                    "line": "6",
+                    "lineId": "028_280_06_6",
+                    "catOut": "Bybus",
+                    "catIn": "028",
+                    "catCode": "5",
+                    "cls": "32",
+                    "catOutS": "028",
+                    "catOutL": "Bybus",
+                    "operatorCode": "NT",
+                    "operator": "NT",
+                    "admin": "280_06",
+                    "routeIdxFrom": 9,
+                    "routeIdxTo": 19,
+                    "matchId": "23414"
+                }
+            ],
+            "Notes": {
+                "Note": [
+                    {
+                        "value": "NT",
+                        "key": "PU",
+                        "type": "I",
+                        "routeIdxFrom": 9,
+                        "routeIdxTo": 19,
+                        "txtN": "NT"
+                    },
+                    {
+                        "value": "2009",
+                        "key": "bp",
+                        "type": "I",
+                        "routeIdxFrom": 9,
+                        "routeIdxTo": 19,
+                        "txtN": "2009"
+                    },
+                    {
+                        "value": "23414",
+                        "key": "FD",
+                        "type": "I",
+                        "routeIdxFrom": 9,
+                        "routeIdxTo": 19,
+                        "txtN": "23414"
+                    },
+                    {
+                        "key": "FB",
+                        "type": "A"
+                    },
+                    {
+                        "value": "5002",
+                        "key": "TN",
+                        "type": "I",
+                        "txtN": "5002"
+                    },
+                    {
+                        "value": "NT",
+                        "key": "TP",
+                        "type": "I",
+                        "txtN": "NT"
+                    },
+                    {
+                        "value": "NT 002",
+                        "key": "TR",
+                        "type": "I",
+                        "txtN": "NT 002"
+                    },
+                    {
+                        "value": "2",
+                        "key": "TW",
+                        "type": "I",
+                        "txtN": "2"
+                    }
+                ]
+            },
+            "name": "Bybus 6",
+            "type": "ST",
+            "stop": "Høstvej (Øster Uttrup Vej / Aalborg)",
+            "stopid": "A=1@O=Høstvej (Øster Uttrup Vej / Aalborg)@X=9977892@Y=57042992@U=86@L=851981302@",
+            "stopExtId": "851981302",
+            "lon": 9.977892,
+            "lat": 57.042992,
+            "time": "09:27:00",
+            "date": "2025-11-10",
+            "reachable": true,
+            "direction": "Lindholm St.",
+            "directionFlag": "1"
+        },
+        {
+            "JourneyDetailRef": {
+                "ref": "2|#VN#1#ST#1762512367#PI#0#ZI#34304#TA#2#DA#101125#1S#851012902#1T#917#LS#851000304#LT#940#PU#86#RT#1#CA#028#ZE#6#ZB#Bybus 6#PC#5#FR#851012902#FT#917#TO#851000304#TT#940#"
+            },
+            "JourneyStatus": "P",
+            "ProductAtStop": {
+                "icon": {
+                    "res": "prod_bus"
+                },
+                "operatorInfo": {
+                    "name": "NT",
+                    "nameS": "NT",
+                    "nameN": "NT",
+                    "nameL": "NT"
+                },
+                "name": "Bybus 6",
+                "internalName": "Bybus 6",
+                "displayNumber": "6",
+                "num": "2199",
+                "line": "6",
+                "lineId": "028_280_06_6",
+                "catOut": "Bybus",
+                "catIn": "028",
+                "catCode": "5",
+                "cls": "32",
+                "catOutS": "028",
+                "catOutL": "Bybus",
+                "operatorCode": "NT",
+                "operator": "NT",
+                "admin": "280_06",
+                "matchId": "23396"
+            },
+            "Product": [
+                {
+                    "icon": {
+                        "res": "prod_bus"
+                    },
+                    "operatorInfo": {
+                        "name": "NT",
+                        "nameS": "NT",
+                        "nameN": "NT",
+                        "nameL": "NT"
+                    },
+                    "name": "Bybus 6",
+                    "internalName": "Bybus 6",
+                    "displayNumber": "6",
+                    "num": "2199",
+                    "line": "6",
+                    "lineId": "028_280_06_6",
+                    "catOut": "Bybus",
+                    "catIn": "028",
+                    "catCode": "5",
+                    "cls": "32",
+                    "catOutS": "028",
+                    "catOutL": "Bybus",
+                    "operatorCode": "NT",
+                    "operator": "NT",
+                    "admin": "280_06",
+                    "routeIdxFrom": 9,
+                    "routeIdxTo": 17,
+                    "matchId": "23396"
+                }
+            ],
+            "Notes": {
+                "Note": [
+                    {
+                        "value": "NT",
+                        "key": "PU",
+                        "type": "I",
+                        "routeIdxFrom": 9,
+                        "routeIdxTo": 17,
+                        "txtN": "NT"
+                    },
+                    {
+                        "value": "2009",
+                        "key": "bp",
+                        "type": "I",
+                        "routeIdxFrom": 9,
+                        "routeIdxTo": 17,
+                        "txtN": "2009"
+                    },
+                    {
+                        "value": "23396",
+                        "key": "FD",
+                        "type": "I",
+                        "routeIdxFrom": 9,
+                        "routeIdxTo": 17,
+                        "txtN": "23396"
+                    },
+                    {
+                        "key": "FB",
+                        "type": "A"
+                    },
+                    {
+                        "value": "5001",
+                        "key": "TN",
+                        "type": "I",
+                        "txtN": "5001"
+                    },
+                    {
+                        "value": "NT",
+                        "key": "TP",
+                        "type": "I",
+                        "txtN": "NT"
+                    },
+                    {
+                        "value": "NT 001",
+                        "key": "TR",
+                        "type": "I",
+                        "txtN": "NT 001"
+                    },
+                    {
+                        "value": "1",
+                        "key": "TW",
+                        "type": "I",
+                        "txtN": "1"
+                    }
+                ]
+            },
+            "Messages": {
+                "Message": [
+                    {
+                        "affectedStops": {
+                            "StopLocation": [
+                                {
+                                    "LocationNotes": {
+                                        "LocationNote": [
+                                            {
+                                                "value": "",
+                                                "key": "FB",
+                                                "type": "A",
+                                                "txtN": ""
+                                            },
+                                            {
+                                                "value": "5001",
+                                                "key": "TN",
+                                                "type": "I",
+                                                "txtN": "5001"
+                                            },
+                                            {
+                                                "value": "NT",
+                                                "key": "TP",
+                                                "type": "I",
+                                                "txtN": "NT"
+                                            },
+                                            {
+                                                "value": "NT 001",
+                                                "key": "TR",
+                                                "type": "I",
+                                                "txtN": "NT 001"
+                                            },
+                                            {
+                                                "value": "1",
+                                                "key": "TW",
+                                                "type": "I",
+                                                "txtN": "1"
+                                            }
+                                        ]
+                                    },
+                                    "id": "A=1@O=Lindholm St. (Stationsvej / Nørresundby)@X=9905115@Y=57067039@U=86@L=851012902@",
+                                    "extId": "851012902",
+                                    "name": "Lindholm St. (Stationsvej / Nørresundby)",
+                                    "lon": 9.905115,
+                                    "lat": 57.067039,
+                                    "products": 32
+                                },
+                                {
+                                    "LocationNotes": {
+                                        "LocationNote": [
+                                            {
+                                                "value": "5002",
+                                                "key": "TN",
+                                                "type": "I",
+                                                "txtN": "5002"
+                                            },
+                                            {
+                                                "value": "NT",
+                                                "key": "TP",
+                                                "type": "I",
+                                                "txtN": "NT"
+                                            },
+                                            {
+                                                "value": "NT 002",
+                                                "key": "TR",
+                                                "type": "I",
+                                                "txtN": "NT 002"
+                                            },
+                                            {
+                                                "value": "2",
+                                                "key": "TW",
+                                                "type": "I",
+                                                "txtN": "2"
+                                            }
+                                        ]
+                                    },
+                                    "id": "A=1@O=AAU Busterminal (Sigrid Undsetsvej / Aalborg)@X=9990890@Y=57016151@U=86@L=851000303@",
+                                    "extId": "851000303",
+                                    "name": "AAU Busterminal (Sigrid Undsetsvej / Aalborg)",
+                                    "lon": 9.99089,
+                                    "lat": 57.016151,
+                                    "products": 32
+                                }
+                            ]
+                        },
+                        "validFromStop": {
+                            "name": "Lindholm St. (Stationsvej / Nørresundby)",
+                            "id": "A=1@O=Lindholm St. (Stationsvej / Nørresundby)@X=9905115@Y=57067039@U=86@L=851012902@",
+                            "extId": "851012902",
+                            "routeIdx": 0,
+                            "lon": 9.905115,
+                            "lat": 57.067039,
+                            "minimumChangeDuration": "PT4M"
+                        },
+                        "validToStop": {
+                            "name": "AAU Busterminal (Sigrid Undsetsvej / Aalborg)",
+                            "id": "A=1@O=AAU Busterminal (Sigrid Undsetsvej / Aalborg)@X=9990890@Y=57016151@U=86@L=851000303@",
+                            "extId": "851000303",
+                            "routeIdx": 17,
+                            "lon": 9.99089,
+                            "lat": 57.016151,
+                            "minimumChangeDuration": "PT4M"
+                        },
+                        "channel": [
+                            {
+                                "name": "TIMETABLE",
+                                "validFromTime": "00:00:00",
+                                "validFromDate": "2025-11-10",
+                                "validToTime": "09:50:00",
+                                "validToDate": "2025-11-10"
+                            }
+                        ],
+                        "messageCategory": [
+                            {
+                                "id": 0
+                            }
+                        ],
+                        "id": "76061",
+                        "act": true,
+                        "head": "Forsinkelse",
+                        "text": "Følgende tur for Linje 6 er forsinket: Lindholm St. (Stationsvej / Nørresundby) (09:17) - AAU Busterminal (Sigrid Undsetsvej / Aalborg) (09:40)",
+                        "company": "NT",
+                        "category": "0",
+                        "products": 32,
+                        "icon": "him_gen_info",
+                        "routeIdxFrom": 0,
+                        "routeIdxTo": 17,
+                        "sTime": "09:17:00",
+                        "sDate": "2025-11-10",
+                        "eTime": "09:18:00",
+                        "eDate": "2025-11-10",
+                        "modTime": "08:53:06",
+                        "modDate": "2025-11-10",
+                        "dailyStartingAt": "00:00:00",
+                        "dailyDuration": "PT23H59M0S"
+                    }
+                ]
+            },
+            "name": "Bybus 6",
+            "type": "ST",
+            "stop": "TECHCOLLEGE (Øster Uttrupvej / Aalborg)",
+            "stopid": "A=1@O=TECHCOLLEGE (Øster Uttrupvej / Aalborg)@X=9967338@Y=57046741@U=86@L=851400601@",
+            "stopExtId": "851400601",
+            "lon": 9.967338,
+            "lat": 57.046741,
+            "time": "09:29:00",
+            "date": "2025-11-10",
+            "reachable": true,
+            "direction": "Universitetet",
+            "directionFlag": "2"
+        },
+        {
+            "JourneyDetailRef": {
+                "ref": "2|#VN#1#ST#1762512367#PI#0#ZI#34213#TA#4#DA#101125#1S#851100108#1T#920#LS#851981602#LT#938#PU#86#RT#1#CA#028#ZE#18#ZB#Bybus 18#PC#5#FR#851100108#FT#920#TO#851981602#TT#938#"
+            },
+            "JourneyStatus": "P",
+            "ProductAtStop": {
+                "icon": {
+                    "res": "prod_bus"
+                },
+                "operatorInfo": {
+                    "name": "NT",
+                    "nameS": "NT",
+                    "nameN": "NT",
+                    "nameL": "NT"
+                },
+                "name": "Bybus 18",
+                "internalName": "Bybus 18",
+                "displayNumber": "18",
+                "num": "1383",
+                "line": "18",
+                "lineId": "028_280_06_18",
+                "catOut": "Bybus",
+                "catIn": "028",
+                "catCode": "5",
+                "cls": "32",
+                "catOutS": "028",
+                "catOutL": "Bybus",
+                "operatorCode": "NT",
+                "operator": "NT",
+                "admin": "280_06",
+                "matchId": "23267"
+            },
+            "Product": [
+                {
+                    "icon": {
+                        "res": "prod_bus"
+                    },
+                    "operatorInfo": {
+                        "name": "NT",
+                        "nameS": "NT",
+                        "nameN": "NT",
+                        "nameL": "NT"
+                    },
+                    "name": "Bybus 18",
+                    "internalName": "Bybus 18",
+                    "displayNumber": "18",
+                    "num": "1383",
+                    "line": "18",
+                    "lineId": "028_280_06_18",
+                    "catOut": "Bybus",
+                    "catIn": "028",
+                    "catCode": "5",
+                    "cls": "32",
+                    "catOutS": "028",
+                    "catOutL": "Bybus",
+                    "operatorCode": "NT",
+                    "operator": "NT",
+                    "admin": "280_06",
+                    "routeIdxFrom": 6,
+                    "routeIdxTo": 11,
+                    "matchId": "23267"
+                }
+            ],
+            "Notes": {
+                "Note": [
+                    {
+                        "value": "F8951F",
+                        "key": "CT",
+                        "type": "I",
+                        "routeIdxFrom": 6,
+                        "routeIdxTo": 11,
+                        "txtN": "F8951F"
+                    },
+                    {
+                        "value": "NT",
+                        "key": "PU",
+                        "type": "I",
+                        "routeIdxFrom": 6,
+                        "routeIdxTo": 11,
+                        "txtN": "NT"
+                    },
+                    {
+                        "value": "2009",
+                        "key": "bp",
+                        "type": "I",
+                        "routeIdxFrom": 6,
+                        "routeIdxTo": 11,
+                        "txtN": "2009"
+                    },
+                    {
+                        "value": "23267",
+                        "key": "FD",
+                        "type": "I",
+                        "routeIdxFrom": 6,
+                        "routeIdxTo": 11,
+                        "txtN": "23267"
+                    },
+                    {
+                        "key": "FB",
+                        "type": "A"
+                    },
+                    {
+                        "value": "5001",
+                        "key": "TN",
+                        "type": "I",
+                        "txtN": "5001"
+                    },
+                    {
+                        "value": "NT",
+                        "key": "TP",
+                        "type": "I",
+                        "txtN": "NT"
+                    },
+                    {
+                        "value": "NT 001",
+                        "key": "TR",
+                        "type": "I",
+                        "txtN": "NT 001"
+                    },
+                    {
+                        "value": "1",
+                        "key": "TW",
+                        "type": "I",
+                        "txtN": "1"
+                    }
+                ]
+            },
+            "name": "Bybus 18",
+            "type": "ST",
+            "stop": "TECHCOLLEGE (Øster Uttrupvej / Aalborg)",
+            "stopid": "A=1@O=TECHCOLLEGE (Øster Uttrupvej / Aalborg)@X=9967338@Y=57046741@U=86@L=851400601@",
+            "stopExtId": "851400601",
+            "lon": 9.967338,
+            "lat": 57.046741,
+            "time": "09:30:00",
+            "date": "2025-11-10",
+            "reachable": true,
+            "direction": "Assensvej",
+            "directionFlag": "2"
+        },
+        {
+            "JourneyDetailRef": {
+                "ref": "2|#VN#1#ST#1762512367#PI#0#ZI#34140#TA#5#DA#101125#1S#851072402#1T#928#LS#851012701#LT#1004#PU#86#RT#1#CA#028#ZE#17#ZB#Bybus 17#PC#5#FR#851072402#FT#928#TO#851012701#TT#1004#"
+            },
+            "JourneyStatus": "P",
+            "ProductAtStop": {
+                "icon": {
+                    "res": "prod_bus"
+                },
+                "operatorInfo": {
+                    "name": "NT",
+                    "nameS": "NT",
+                    "nameN": "NT",
+                    "nameL": "NT"
+                },
+                "name": "Bybus 17",
+                "internalName": "Bybus 17",
+                "displayNumber": "17",
+                "num": "1178",
+                "line": "17",
+                "lineId": "028_280_06_17",
+                "catOut": "Bybus",
+                "catIn": "028",
+                "catCode": "5",
+                "cls": "32",
+                "catOutS": "028",
+                "catOutL": "Bybus",
+                "operatorCode": "NT",
+                "operator": "NT",
+                "admin": "280_06",
+                "matchId": "10302"
+            },
+            "Product": [
+                {
+                    "icon": {
+                        "res": "prod_bus"
+                    },
+                    "operatorInfo": {
+                        "name": "NT",
+                        "nameS": "NT",
+                        "nameN": "NT",
+                        "nameL": "NT"
+                    },
+                    "name": "Bybus 17",
+                    "internalName": "Bybus 17",
+                    "displayNumber": "17",
+                    "num": "1178",
+                    "line": "17",
+                    "lineId": "028_280_06_17",
+                    "catOut": "Bybus",
+                    "catIn": "028",
+                    "catCode": "5",
+                    "cls": "32",
+                    "catOutS": "028",
+                    "catOutL": "Bybus",
+                    "operatorCode": "NT",
+                    "operator": "NT",
+                    "admin": "280_06",
+                    "routeIdxFrom": 9,
+                    "routeIdxTo": 29,
+                    "matchId": "10302"
+                }
+            ],
+            "Notes": {
+                "Note": [
+                    {
+                        "value": "F8951F",
+                        "key": "CT",
+                        "type": "I",
+                        "routeIdxFrom": 9,
+                        "routeIdxTo": 29,
+                        "txtN": "F8951F"
+                    },
+                    {
+                        "value": "NT",
+                        "key": "PU",
+                        "type": "I",
+                        "routeIdxFrom": 9,
+                        "routeIdxTo": 29,
+                        "txtN": "NT"
+                    },
+                    {
+                        "value": "2009",
+                        "key": "bp",
+                        "type": "I",
+                        "routeIdxFrom": 9,
+                        "routeIdxTo": 29,
+                        "txtN": "2009"
+                    },
+                    {
+                        "value": "10302",
+                        "key": "FD",
+                        "type": "I",
+                        "routeIdxFrom": 9,
+                        "routeIdxTo": 29,
+                        "txtN": "10302"
+                    },
+                    {
+                        "key": "FB",
+                        "type": "A"
+                    },
+                    {
+                        "value": "5001",
+                        "key": "TN",
+                        "type": "I",
+                        "txtN": "5001"
+                    },
+                    {
+                        "value": "NT",
+                        "key": "TP",
+                        "type": "I",
+                        "txtN": "NT"
+                    },
+                    {
+                        "value": "NT 001",
+                        "key": "TR",
+                        "type": "I",
+                        "txtN": "NT 001"
+                    },
+                    {
+                        "value": "1",
+                        "key": "TW",
+                        "type": "I",
+                        "txtN": "1"
+                    }
+                ]
+            },
+            "name": "Bybus 17",
+            "type": "ST",
+            "stop": "Tove Ditlevsens Vej  (Aalborg)",
+            "stopid": "A=1@O=Tove Ditlevsens Vej  (Aalborg)@X=9971788@Y=57040404@U=86@L=851972002@",
+            "stopExtId": "851972002",
+            "lon": 9.971788,
+            "lat": 57.040404,
+            "time": "09:35:00",
+            "date": "2025-11-10",
+            "reachable": true,
+            "direction": "Strubjerg",
+            "directionFlag": "2"
+        },
+        {
+            "JourneyDetailRef": {
+                "ref": "2|#VN#1#ST#1762512367#PI#0#ZI#34135#TA#1#DA#101125#1S#851012702#1T#912#LS#851072401#LT#950#PU#86#RT#1#CA#028#ZE#17#ZB#Bybus 17#PC#5#FR#851012702#FT#912#TO#851072401#TT#950#"
+            },
+            "JourneyStatus": "P",
+            "ProductAtStop": {
+                "icon": {
+                    "res": "prod_bus"
+                },
+                "operatorInfo": {
+                    "name": "NT",
+                    "nameS": "NT",
+                    "nameN": "NT",
+                    "nameL": "NT"
+                },
+                "name": "Bybus 17",
+                "internalName": "Bybus 17",
+                "displayNumber": "17",
+                "num": "1299",
+                "line": "17",
+                "lineId": "028_280_06_17",
+                "catOut": "Bybus",
+                "catIn": "028",
+                "catCode": "5",
+                "cls": "32",
+                "catOutS": "028",
+                "catOutL": "Bybus",
+                "operatorCode": "NT",
+                "operator": "NT",
+                "admin": "280_06",
+                "matchId": "10220"
+            },
+            "Product": [
+                {
+                    "icon": {
+                        "res": "prod_bus"
+                    },
+                    "operatorInfo": {
+                        "name": "NT",
+                        "nameS": "NT",
+                        "nameN": "NT",
+                        "nameL": "NT"
+                    },
+                    "name": "Bybus 17",
+                    "internalName": "Bybus 17",
+                    "displayNumber": "17",
+                    "num": "1299",
+                    "line": "17",
+                    "lineId": "028_280_06_17",
+                    "catOut": "Bybus",
+                    "catIn": "028",
+                    "catCode": "5",
+                    "cls": "32",
+                    "catOutS": "028",
+                    "catOutL": "Bybus",
+                    "operatorCode": "NT",
+                    "operator": "NT",
+                    "admin": "280_06",
+                    "routeIdxFrom": 17,
+                    "routeIdxTo": 29,
+                    "matchId": "10220"
+                }
+            ],
+            "Notes": {
+                "Note": [
+                    {
+                        "value": "F8951F",
+                        "key": "CT",
+                        "type": "I",
+                        "routeIdxFrom": 17,
+                        "routeIdxTo": 29,
+                        "txtN": "F8951F"
+                    },
+                    {
+                        "value": "NT",
+                        "key": "PU",
+                        "type": "I",
+                        "routeIdxFrom": 17,
+                        "routeIdxTo": 29,
+                        "txtN": "NT"
+                    },
+                    {
+                        "value": "2009",
+                        "key": "bp",
+                        "type": "I",
+                        "routeIdxFrom": 17,
+                        "routeIdxTo": 29,
+                        "txtN": "2009"
+                    },
+                    {
+                        "value": "10220",
+                        "key": "FD",
+                        "type": "I",
+                        "routeIdxFrom": 17,
+                        "routeIdxTo": 29,
+                        "txtN": "10220"
+                    },
+                    {
+                        "key": "FB",
+                        "type": "A"
+                    },
+                    {
+                        "value": "5001",
+                        "key": "TN",
+                        "type": "I",
+                        "txtN": "5001"
+                    },
+                    {
+                        "value": "NT",
+                        "key": "TP",
+                        "type": "I",
+                        "txtN": "NT"
+                    },
+                    {
+                        "value": "NT 001",
+                        "key": "TR",
+                        "type": "I",
+                        "txtN": "NT 001"
+                    },
+                    {
+                        "value": "1",
+                        "key": "TW",
+                        "type": "I",
+                        "txtN": "1"
+                    }
+                ]
+            },
+            "name": "Bybus 17",
+            "type": "ST",
+            "stop": "Martinus Rørbyes Vej (Øster Sundby Vej / Aalborg)",
+            "stopid": "A=1@O=Martinus Rørbyes Vej (Øster Sundby Vej / Aalborg)@X=9960704@Y=57044610@U=86@L=851972401@",
+            "stopExtId": "851972401",
+            "lon": 9.960704,
+            "lat": 57.04461,
+            "time": "09:39:00",
+            "date": "2025-11-10",
+            "reachable": true,
+            "direction": "Saltumvej",
+            "directionFlag": "1"
+        },
+        {
+            "JourneyDetailRef": {
+                "ref": "2|#VN#1#ST#1762512367#PI#0#ZI#34169#TA#0#DA#101125#1S#851981602#1T#947#LS#851805601#LT#1040#PU#86#RT#1#CA#028#ZE#18#ZB#Bybus 18#PC#5#FR#851981602#FT#947#TO#851805601#TT#1040#"
+            },
+            "JourneyStatus": "P",
+            "ProductAtStop": {
+                "icon": {
+                    "res": "prod_bus"
+                },
+                "operatorInfo": {
+                    "name": "NT",
+                    "nameS": "NT",
+                    "nameN": "NT",
+                    "nameL": "NT"
+                },
+                "name": "Bybus 18",
+                "internalName": "Bybus 18",
+                "displayNumber": "18",
+                "num": "1391",
+                "line": "18",
+                "lineId": "028_280_06_18",
+                "catOut": "Bybus",
+                "catIn": "028",
+                "catCode": "5",
+                "cls": "32",
+                "catOutS": "028",
+                "catOutL": "Bybus",
+                "operatorCode": "NT",
+                "operator": "NT",
+                "admin": "280_06",
+                "matchId": "23298"
+            },
+            "Product": [
+                {
+                    "icon": {
+                        "res": "prod_bus"
+                    },
+                    "operatorInfo": {
+                        "name": "NT",
+                        "nameS": "NT",
+                        "nameN": "NT",
+                        "nameL": "NT"
+                    },
+                    "name": "Bybus 18",
+                    "internalName": "Bybus 18",
+                    "displayNumber": "18",
+                    "num": "1391",
+                    "line": "18",
+                    "lineId": "028_280_06_18",
+                    "catOut": "Bybus",
+                    "catIn": "028",
+                    "catCode": "5",
+                    "cls": "32",
+                    "catOutS": "028",
+                    "catOutL": "Bybus",
+                    "operatorCode": "NT",
+                    "operator": "NT",
+                    "admin": "280_06",
+                    "routeIdxFrom": 5,
+                    "routeIdxTo": 42,
+                    "matchId": "23298"
+                }
+            ],
+            "Notes": {
+                "Note": [
+                    {
+                        "value": "F8951F",
+                        "key": "CT",
+                        "type": "I",
+                        "routeIdxFrom": 5,
+                        "routeIdxTo": 42,
+                        "txtN": "F8951F"
+                    },
+                    {
+                        "value": "NT",
+                        "key": "PU",
+                        "type": "I",
+                        "routeIdxFrom": 5,
+                        "routeIdxTo": 42,
+                        "txtN": "NT"
+                    },
+                    {
+                        "value": "2009",
+                        "key": "bp",
+                        "type": "I",
+                        "routeIdxFrom": 5,
+                        "routeIdxTo": 42,
+                        "txtN": "2009"
+                    },
+                    {
+                        "value": "23298",
+                        "key": "FD",
+                        "type": "I",
+                        "routeIdxFrom": 5,
+                        "routeIdxTo": 42,
+                        "txtN": "23298"
+                    },
+                    {
+                        "key": "FB",
+                        "type": "A"
+                    },
+                    {
+                        "value": "5002",
+                        "key": "TN",
+                        "type": "I",
+                        "txtN": "5002"
+                    },
+                    {
+                        "value": "NT",
+                        "key": "TP",
+                        "type": "I",
+                        "txtN": "NT"
+                    },
+                    {
+                        "value": "NT 002",
+                        "key": "TR",
+                        "type": "I",
+                        "txtN": "NT 002"
+                    },
+                    {
+                        "value": "2",
+                        "key": "TW",
+                        "type": "I",
+                        "txtN": "2"
+                    }
+                ]
+            },
+            "name": "Bybus 18",
+            "type": "ST",
+            "stop": "Høstvej (Øster Uttrup Vej / Aalborg)",
+            "stopid": "A=1@O=Høstvej (Øster Uttrup Vej / Aalborg)@X=9977892@Y=57042992@U=86@L=851981302@",
+            "stopExtId": "851981302",
+            "lon": 9.977892,
+            "lat": 57.042992,
+            "time": "09:52:00",
+            "date": "2025-11-10",
+            "reachable": true,
+            "direction": "Sønderholm",
+            "directionFlag": "1"
+        },
+        {
+            "JourneyDetailRef": {
+                "ref": "2|#VN#1#ST#1762512367#PI#0#ZI#34140#TA#6#DA#101125#1S#851072402#1T#948#LS#851012701#LT#1024#PU#86#RT#1#CA#028#ZE#17#ZB#Bybus 17#PC#5#FR#851072402#FT#948#TO#851012701#TT#1024#"
+            },
+            "JourneyStatus": "P",
+            "ProductAtStop": {
+                "icon": {
+                    "res": "prod_bus"
+                },
+                "operatorInfo": {
+                    "name": "NT",
+                    "nameS": "NT",
+                    "nameN": "NT",
+                    "nameL": "NT"
+                },
+                "name": "Bybus 17",
+                "internalName": "Bybus 17",
+                "displayNumber": "17",
+                "num": "1171",
+                "line": "17",
+                "lineId": "028_280_06_17",
+                "catOut": "Bybus",
+                "catIn": "028",
+                "catCode": "5",
+                "cls": "32",
+                "catOutS": "028",
+                "catOutL": "Bybus",
+                "operatorCode": "NT",
+                "operator": "NT",
+                "admin": "280_06",
+                "matchId": "10303"
+            },
+            "Product": [
+                {
+                    "icon": {
+                        "res": "prod_bus"
+                    },
+                    "operatorInfo": {
+                        "name": "NT",
+                        "nameS": "NT",
+                        "nameN": "NT",
+                        "nameL": "NT"
+                    },
+                    "name": "Bybus 17",
+                    "internalName": "Bybus 17",
+                    "displayNumber": "17",
+                    "num": "1171",
+                    "line": "17",
+                    "lineId": "028_280_06_17",
+                    "catOut": "Bybus",
+                    "catIn": "028",
+                    "catCode": "5",
+                    "cls": "32",
+                    "catOutS": "028",
+                    "catOutL": "Bybus",
+                    "operatorCode": "NT",
+                    "operator": "NT",
+                    "admin": "280_06",
+                    "routeIdxFrom": 9,
+                    "routeIdxTo": 29,
+                    "matchId": "10303"
+                }
+            ],
+            "Notes": {
+                "Note": [
+                    {
+                        "value": "F8951F",
+                        "key": "CT",
+                        "type": "I",
+                        "routeIdxFrom": 9,
+                        "routeIdxTo": 29,
+                        "txtN": "F8951F"
+                    },
+                    {
+                        "value": "NT",
+                        "key": "PU",
+                        "type": "I",
+                        "routeIdxFrom": 9,
+                        "routeIdxTo": 29,
+                        "txtN": "NT"
+                    },
+                    {
+                        "value": "2009",
+                        "key": "bp",
+                        "type": "I",
+                        "routeIdxFrom": 9,
+                        "routeIdxTo": 29,
+                        "txtN": "2009"
+                    },
+                    {
+                        "value": "10303",
+                        "key": "FD",
+                        "type": "I",
+                        "routeIdxFrom": 9,
+                        "routeIdxTo": 29,
+                        "txtN": "10303"
+                    },
+                    {
+                        "key": "FB",
+                        "type": "A"
+                    },
+                    {
+                        "value": "5001",
+                        "key": "TN",
+                        "type": "I",
+                        "txtN": "5001"
+                    },
+                    {
+                        "value": "NT",
+                        "key": "TP",
+                        "type": "I",
+                        "txtN": "NT"
+                    },
+                    {
+                        "value": "NT 001",
+                        "key": "TR",
+                        "type": "I",
+                        "txtN": "NT 001"
+                    },
+                    {
+                        "value": "1",
+                        "key": "TW",
+                        "type": "I",
+                        "txtN": "1"
+                    }
+                ]
+            },
+            "name": "Bybus 17",
+            "type": "ST",
+            "stop": "Tove Ditlevsens Vej  (Aalborg)",
+            "stopid": "A=1@O=Tove Ditlevsens Vej  (Aalborg)@X=9971788@Y=57040404@U=86@L=851972002@",
+            "stopExtId": "851972002",
+            "lon": 9.971788,
+            "lat": 57.040404,
+            "time": "09:55:00",
+            "date": "2025-11-10",
+            "reachable": true,
+            "direction": "Strubjerg",
+            "directionFlag": "2"
+        },
+        {
+            "JourneyDetailRef": {
+                "ref": "2|#VN#1#ST#1762512367#PI#0#ZI#34300#TA#5#DA#101125#1S#851000304#1T#946#LS#851012902#LT#1009#PU#86#RT#1#CA#028#ZE#6#ZB#Bybus 6#PC#5#FR#851000304#FT#946#TO#851012902#TT#1009#"
+            },
+            "JourneyStatus": "P",
+            "ProductAtStop": {
+                "icon": {
+                    "res": "prod_bus"
+                },
+                "operatorInfo": {
+                    "name": "NT",
+                    "nameS": "NT",
+                    "nameN": "NT",
+                    "nameL": "NT"
+                },
+                "name": "Bybus 6",
+                "internalName": "Bybus 6",
+                "displayNumber": "6",
+                "num": "2175",
+                "line": "6",
+                "lineId": "028_280_06_6",
+                "catOut": "Bybus",
+                "catIn": "028",
+                "catCode": "5",
+                "cls": "32",
+                "catOutS": "028",
+                "catOutL": "Bybus",
+                "operatorCode": "NT",
+                "operator": "NT",
+                "admin": "280_06",
+                "matchId": "23415"
+            },
+            "Product": [
+                {
+                    "icon": {
+                        "res": "prod_bus"
+                    },
+                    "operatorInfo": {
+                        "name": "NT",
+                        "nameS": "NT",
+                        "nameN": "NT",
+                        "nameL": "NT"
+                    },
+                    "name": "Bybus 6",
+                    "internalName": "Bybus 6",
+                    "displayNumber": "6",
+                    "num": "2175",
+                    "line": "6",
+                    "lineId": "028_280_06_6",
+                    "catOut": "Bybus",
+                    "catIn": "028",
+                    "catCode": "5",
+                    "cls": "32",
+                    "catOutS": "028",
+                    "catOutL": "Bybus",
+                    "operatorCode": "NT",
+                    "operator": "NT",
+                    "admin": "280_06",
+                    "routeIdxFrom": 9,
+                    "routeIdxTo": 19,
+                    "matchId": "23415"
+                }
+            ],
+            "Notes": {
+                "Note": [
+                    {
+                        "value": "NT",
+                        "key": "PU",
+                        "type": "I",
+                        "routeIdxFrom": 9,
+                        "routeIdxTo": 19,
+                        "txtN": "NT"
+                    },
+                    {
+                        "value": "2009",
+                        "key": "bp",
+                        "type": "I",
+                        "routeIdxFrom": 9,
+                        "routeIdxTo": 19,
+                        "txtN": "2009"
+                    },
+                    {
+                        "value": "23415",
+                        "key": "FD",
+                        "type": "I",
+                        "routeIdxFrom": 9,
+                        "routeIdxTo": 19,
+                        "txtN": "23415"
+                    },
+                    {
+                        "key": "FB",
+                        "type": "A"
+                    },
+                    {
+                        "value": "5002",
+                        "key": "TN",
+                        "type": "I",
+                        "txtN": "5002"
+                    },
+                    {
+                        "value": "NT",
+                        "key": "TP",
+                        "type": "I",
+                        "txtN": "NT"
+                    },
+                    {
+                        "value": "NT 002",
+                        "key": "TR",
+                        "type": "I",
+                        "txtN": "NT 002"
+                    },
+                    {
+                        "value": "2",
+                        "key": "TW",
+                        "type": "I",
+                        "txtN": "2"
+                    }
+                ]
+            },
+            "name": "Bybus 6",
+            "type": "ST",
+            "stop": "Høstvej (Øster Uttrup Vej / Aalborg)",
+            "stopid": "A=1@O=Høstvej (Øster Uttrup Vej / Aalborg)@X=9977892@Y=57042992@U=86@L=851981302@",
+            "stopExtId": "851981302",
+            "lon": 9.977892,
+            "lat": 57.042992,
+            "time": "09:57:00",
+            "date": "2025-11-10",
+            "reachable": true,
+            "direction": "Lindholm St.",
+            "directionFlag": "1"
+        },
+        {
+            "JourneyDetailRef": {
+                "ref": "2|#VN#1#ST#1762512367#PI#0#ZI#34135#TA#2#DA#101125#1S#851012702#1T#932#LS#851072401#LT#1010#PU#86#RT#1#CA#028#ZE#17#ZB#Bybus 17#PC#5#FR#851012702#FT#932#TO#851072401#TT#1010#"
+            },
+            "JourneyStatus": "P",
+            "ProductAtStop": {
+                "icon": {
+                    "res": "prod_bus"
+                },
+                "operatorInfo": {
+                    "name": "NT",
+                    "nameS": "NT",
+                    "nameN": "NT",
+                    "nameL": "NT"
+                },
+                "name": "Bybus 17",
+                "internalName": "Bybus 17",
+                "displayNumber": "17",
+                "num": "1300",
+                "line": "17",
+                "lineId": "028_280_06_17",
+                "catOut": "Bybus",
+                "catIn": "028",
+                "catCode": "5",
+                "cls": "32",
+                "catOutS": "028",
+                "catOutL": "Bybus",
+                "operatorCode": "NT",
+                "operator": "NT",
+                "admin": "280_06",
+                "matchId": "10221"
+            },
+            "Product": [
+                {
+                    "icon": {
+                        "res": "prod_bus"
+                    },
+                    "operatorInfo": {
+                        "name": "NT",
+                        "nameS": "NT",
+                        "nameN": "NT",
+                        "nameL": "NT"
+                    },
+                    "name": "Bybus 17",
+                    "internalName": "Bybus 17",
+                    "displayNumber": "17",
+                    "num": "1300",
+                    "line": "17",
+                    "lineId": "028_280_06_17",
+                    "catOut": "Bybus",
+                    "catIn": "028",
+                    "catCode": "5",
+                    "cls": "32",
+                    "catOutS": "028",
+                    "catOutL": "Bybus",
+                    "operatorCode": "NT",
+                    "operator": "NT",
+                    "admin": "280_06",
+                    "routeIdxFrom": 17,
+                    "routeIdxTo": 29,
+                    "matchId": "10221"
+                }
+            ],
+            "Notes": {
+                "Note": [
+                    {
+                        "value": "F8951F",
+                        "key": "CT",
+                        "type": "I",
+                        "routeIdxFrom": 17,
+                        "routeIdxTo": 29,
+                        "txtN": "F8951F"
+                    },
+                    {
+                        "value": "NT",
+                        "key": "PU",
+                        "type": "I",
+                        "routeIdxFrom": 17,
+                        "routeIdxTo": 29,
+                        "txtN": "NT"
+                    },
+                    {
+                        "value": "2009",
+                        "key": "bp",
+                        "type": "I",
+                        "routeIdxFrom": 17,
+                        "routeIdxTo": 29,
+                        "txtN": "2009"
+                    },
+                    {
+                        "value": "10221",
+                        "key": "FD",
+                        "type": "I",
+                        "routeIdxFrom": 17,
+                        "routeIdxTo": 29,
+                        "txtN": "10221"
+                    },
+                    {
+                        "key": "FB",
+                        "type": "A"
+                    },
+                    {
+                        "value": "5001",
+                        "key": "TN",
+                        "type": "I",
+                        "txtN": "5001"
+                    },
+                    {
+                        "value": "NT",
+                        "key": "TP",
+                        "type": "I",
+                        "txtN": "NT"
+                    },
+                    {
+                        "value": "NT 001",
+                        "key": "TR",
+                        "type": "I",
+                        "txtN": "NT 001"
+                    },
+                    {
+                        "value": "1",
+                        "key": "TW",
+                        "type": "I",
+                        "txtN": "1"
+                    }
+                ]
+            },
+            "name": "Bybus 17",
+            "type": "ST",
+            "stop": "Martinus Rørbyes Vej (Øster Sundby Vej / Aalborg)",
+            "stopid": "A=1@O=Martinus Rørbyes Vej (Øster Sundby Vej / Aalborg)@X=9960704@Y=57044610@U=86@L=851972401@",
+            "stopExtId": "851972401",
+            "lon": 9.960704,
+            "lat": 57.04461,
+            "time": "09:59:00",
+            "date": "2025-11-10",
+            "reachable": true,
+            "direction": "Saltumvej",
+            "directionFlag": "1"
+        },
+        {
+            "JourneyDetailRef": {
+                "ref": "2|#VN#1#ST#1762512367#PI#0#ZI#34304#TA#3#DA#101125#1S#851012902#1T#947#LS#851000304#LT#1010#PU#86#RT#1#CA#028#ZE#6#ZB#Bybus 6#PC#5#FR#851012902#FT#947#TO#851000304#TT#1010#"
+            },
+            "JourneyStatus": "P",
+            "ProductAtStop": {
+                "icon": {
+                    "res": "prod_bus"
+                },
+                "operatorInfo": {
+                    "name": "NT",
+                    "nameS": "NT",
+                    "nameN": "NT",
+                    "nameL": "NT"
+                },
+                "name": "Bybus 6",
+                "internalName": "Bybus 6",
+                "displayNumber": "6",
+                "num": "2200",
+                "line": "6",
+                "lineId": "028_280_06_6",
+                "catOut": "Bybus",
+                "catIn": "028",
+                "catCode": "5",
+                "cls": "32",
+                "catOutS": "028",
+                "catOutL": "Bybus",
+                "operatorCode": "NT",
+                "operator": "NT",
+                "admin": "280_06",
+                "matchId": "23397"
+            },
+            "Product": [
+                {
+                    "icon": {
+                        "res": "prod_bus"
+                    },
+                    "operatorInfo": {
+                        "name": "NT",
+                        "nameS": "NT",
+                        "nameN": "NT",
+                        "nameL": "NT"
+                    },
+                    "name": "Bybus 6",
+                    "internalName": "Bybus 6",
+                    "displayNumber": "6",
+                    "num": "2200",
+                    "line": "6",
+                    "lineId": "028_280_06_6",
+                    "catOut": "Bybus",
+                    "catIn": "028",
+                    "catCode": "5",
+                    "cls": "32",
+                    "catOutS": "028",
+                    "catOutL": "Bybus",
+                    "operatorCode": "NT",
+                    "operator": "NT",
+                    "admin": "280_06",
+                    "routeIdxFrom": 9,
+                    "routeIdxTo": 17,
+                    "matchId": "23397"
+                }
+            ],
+            "Notes": {
+                "Note": [
+                    {
+                        "value": "NT",
+                        "key": "PU",
+                        "type": "I",
+                        "routeIdxFrom": 9,
+                        "routeIdxTo": 17,
+                        "txtN": "NT"
+                    },
+                    {
+                        "value": "2009",
+                        "key": "bp",
+                        "type": "I",
+                        "routeIdxFrom": 9,
+                        "routeIdxTo": 17,
+                        "txtN": "2009"
+                    },
+                    {
+                        "value": "23397",
+                        "key": "FD",
+                        "type": "I",
+                        "routeIdxFrom": 9,
+                        "routeIdxTo": 17,
+                        "txtN": "23397"
+                    },
+                    {
+                        "key": "FB",
+                        "type": "A"
+                    },
+                    {
+                        "value": "5001",
+                        "key": "TN",
+                        "type": "I",
+                        "txtN": "5001"
+                    },
+                    {
+                        "value": "NT",
+                        "key": "TP",
+                        "type": "I",
+                        "txtN": "NT"
+                    },
+                    {
+                        "value": "NT 001",
+                        "key": "TR",
+                        "type": "I",
+                        "txtN": "NT 001"
+                    },
+                    {
+                        "value": "1",
+                        "key": "TW",
+                        "type": "I",
+                        "txtN": "1"
+                    }
+                ]
+            },
+            "name": "Bybus 6",
+            "type": "ST",
+            "stop": "TECHCOLLEGE (Øster Uttrupvej / Aalborg)",
+            "stopid": "A=1@O=TECHCOLLEGE (Øster Uttrupvej / Aalborg)@X=9967338@Y=57046741@U=86@L=851400601@",
+            "stopExtId": "851400601",
+            "lon": 9.967338,
+            "lat": 57.046741,
+            "time": "09:59:00",
+            "date": "2025-11-10",
+            "reachable": true,
+            "direction": "Universitetet",
+            "directionFlag": "2"
+        },
+        {
+            "JourneyDetailRef": {
+                "ref": "2|#VN#1#ST#1762512367#PI#0#ZI#34220#TA#0#DA#101125#1S#851805602#1T#917#LS#851981602#LT#1008#PU#86#RT#1#CA#028#ZE#18#ZB#Bybus 18#PC#5#FR#851805602#FT#917#TO#851981602#TT#1008#"
+            },
+            "JourneyStatus": "P",
+            "ProductAtStop": {
+                "icon": {
+                    "res": "prod_bus"
+                },
+                "operatorInfo": {
+                    "name": "NT",
+                    "nameS": "NT",
+                    "nameN": "NT",
+                    "nameL": "NT"
+                },
+                "name": "Bybus 18",
+                "internalName": "Bybus 18",
+                "displayNumber": "18",
+                "num": "1364",
+                "line": "18",
+                "lineId": "028_280_06_18",
+                "catOut": "Bybus",
+                "catIn": "028",
+                "catCode": "5",
+                "cls": "32",
+                "catOutS": "028",
+                "catOutL": "Bybus",
+                "operatorCode": "NT",
+                "operator": "NT",
+                "admin": "280_06",
+                "matchId": "23268"
+            },
+            "Product": [
+                {
+                    "icon": {
+                        "res": "prod_bus"
+                    },
+                    "operatorInfo": {
+                        "name": "NT",
+                        "nameS": "NT",
+                        "nameN": "NT",
+                        "nameL": "NT"
+                    },
+                    "name": "Bybus 18",
+                    "internalName": "Bybus 18",
+                    "displayNumber": "18",
+                    "num": "1364",
+                    "line": "18",
+                    "lineId": "028_280_06_18",
+                    "catOut": "Bybus",
+                    "catIn": "028",
+                    "catCode": "5",
+                    "cls": "32",
+                    "catOutS": "028",
+                    "catOutL": "Bybus",
+                    "operatorCode": "NT",
+                    "operator": "NT",
+                    "admin": "280_06",
+                    "routeIdxFrom": 36,
+                    "routeIdxTo": 41,
+                    "matchId": "23268"
+                }
+            ],
+            "Notes": {
+                "Note": [
+                    {
+                        "value": "F8951F",
+                        "key": "CT",
+                        "type": "I",
+                        "routeIdxFrom": 36,
+                        "routeIdxTo": 41,
+                        "txtN": "F8951F"
+                    },
+                    {
+                        "value": "NT",
+                        "key": "PU",
+                        "type": "I",
+                        "routeIdxFrom": 36,
+                        "routeIdxTo": 41,
+                        "txtN": "NT"
+                    },
+                    {
+                        "value": "2009",
+                        "key": "bp",
+                        "type": "I",
+                        "routeIdxFrom": 36,
+                        "routeIdxTo": 41,
+                        "txtN": "2009"
+                    },
+                    {
+                        "value": "23268",
+                        "key": "FD",
+                        "type": "I",
+                        "routeIdxFrom": 36,
+                        "routeIdxTo": 41,
+                        "txtN": "23268"
+                    },
+                    {
+                        "key": "FB",
+                        "type": "A"
+                    },
+                    {
+                        "value": "5001",
+                        "key": "TN",
+                        "type": "I",
+                        "txtN": "5001"
+                    },
+                    {
+                        "value": "NT",
+                        "key": "TP",
+                        "type": "I",
+                        "txtN": "NT"
+                    },
+                    {
+                        "value": "NT 001",
+                        "key": "TR",
+                        "type": "I",
+                        "txtN": "NT 001"
+                    },
+                    {
+                        "value": "1",
+                        "key": "TW",
+                        "type": "I",
+                        "txtN": "1"
+                    }
+                ]
+            },
+            "name": "Bybus 18",
+            "type": "ST",
+            "stop": "TECHCOLLEGE (Øster Uttrupvej / Aalborg)",
+            "stopid": "A=1@O=TECHCOLLEGE (Øster Uttrupvej / Aalborg)@X=9967338@Y=57046741@U=86@L=851400601@",
+            "stopExtId": "851400601",
+            "lon": 9.967338,
+            "lat": 57.046741,
+            "time": "10:00:00",
+            "date": "2025-11-10",
+            "reachable": true,
+            "direction": "Assensvej",
+            "directionFlag": "2"
+        }
+    ],
+    "TechnicalMessages": {
+        "TechnicalMessage": [
+            {
+                "value": "2025-11-10 09:11:58",
+                "key": "requestTime"
+            },
+            {
+                "value": "ttp=16748#16830 plancode0=fm1i5 planid=1762512367 planid0=1762512367 planid_adr=1755802249 plancode_adr=bm7yz planid_poi=1758523087 plancode_poi=c9jdt srvv=5.45.Rejseplanen.18.0.22 (customer/hcudk/release/2025.5.0.0) [2025-09-29] tlibv=TRFVER: rel/dk/12.00.2 2025-07-24 11:05:55 +0200 Rejsekort v12.0.2 jno=1",
+                "key": "backendInfo"
+            }
+        ]
+    },
+    "serverVersion": "2.50.3",
+    "dialectVersion": "2.50-Rejseplanen",
+    "planRtTs": "2025-11-10T09:11:45.000+01:00",
+    "requestId": "nhmuwuge488dww4s"
+}

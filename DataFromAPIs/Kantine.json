@@ -1,0 +1,33 @@
+{
+    "Week": 46,
+    "Days": [
+        {
+            "DayName": "mandag",
+            "Dish": "Millionbøf m. kartoffelmos + salatbuffet med lun ret"
+        },
+        {
+            "DayName": "tirsdag",
+            "Dish": "Panang kylling m. ris + salatbuffet med lun ret"
+        },
+        {
+            "DayName": "onsdag",
+            "Dish": "Forloren hare m. vildtsauce og kartofler + salatbuffet med lun ret"
+        },
+        {
+            "DayName": "torsdag",
+            "Dish": "Pulled pork-burger m. Kartofler   + salatbuffet med lun ret"
+        },
+        {
+            "DayName": "fredag",
+            "Dish": "Kantinen er lukket."
+        }
+    ],
+    "PictureUrl": "http://infoskaerm.techcollege.dk/media/1689/svitlana-vabbclifmvy-unsplash.jpg",
+    "Id": 1256,
+    "Type": "kantineMenu",
+    "Time": 10,
+    "Weather": null,
+    "Schedules": [],
+    "DepartureOffsetTime": 0,
+    "ShowTime": false
+}

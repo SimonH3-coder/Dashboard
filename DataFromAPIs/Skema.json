@@ -1,0 +1,730 @@
+[
+    {
+        "Team": "ggr080125",
+        "StartDate": "2025-11-10T07:15:00+01:00",
+        "Subject": "Bonusfag",
+        "Education": "Grafisk teknik.",
+        "Room": "N112b"
+    },
+    {
+        "Team": "ggr080125",
+        "StartDate": "2025-11-10T09:00:00+01:00",
+        "Subject": "Bonusfag",
+        "Education": "Grafisk teknik.",
+        "Room": "N112b"
+    },
+    {
+        "Team": "ggr080125",
+        "StartDate": "2025-11-10T09:30:00+01:00",
+        "Subject": "Grafisk teknik.",
+        "Education": "Grafisk teknik.",
+        "Room": "N112b"
+    },
+    {
+        "Team": "ggr080125",
+        "StartDate": "2025-11-10T11:00:00+01:00",
+        "Subject": "Grafisk teknik.",
+        "Education": "Grafisk teknik.",
+        "Room": "N112b"
+    },
+    {
+        "Team": "ggr080125",
+        "StartDate": "2025-11-10T12:00:00+01:00",
+        "Subject": "Grafisk teknik.",
+        "Education": "Grafisk teknik.",
+        "Room": "N112b"
+    },
+    {
+        "Team": "ggr080125",
+        "StartDate": "2025-11-11T07:15:00+01:00",
+        "Subject": "Grafisk teknik.",
+        "Education": "Grafisk teknik.",
+        "Room": "N112b"
+    },
+    {
+        "Team": "ggr080125",
+        "StartDate": "2025-11-11T09:00:00+01:00",
+        "Subject": "Grafisk teknik.",
+        "Education": "Grafisk teknik.",
+        "Room": "N112b"
+    },
+    {
+        "Team": "ggr080125",
+        "StartDate": "2025-11-11T09:30:00+01:00",
+        "Subject": "Grafisk teknik.",
+        "Education": "Grafisk teknik.",
+        "Room": "N112b"
+    },
+    {
+        "Team": "ggr080125",
+        "StartDate": "2025-11-11T11:00:00+01:00",
+        "Subject": "Grafisk teknik.",
+        "Education": "Grafisk teknik.",
+        "Room": "N112b"
+    },
+    {
+        "Team": "ggr080125",
+        "StartDate": "2025-11-11T12:00:00+01:00",
+        "Subject": "Grafisk teknik.",
+        "Education": "Grafisk teknik.",
+        "Room": "N112b"
+    },
+    {
+        "Team": "ggr080125",
+        "StartDate": "2025-11-12T07:15:00+01:00",
+        "Subject": "Grafisk teknik.",
+        "Education": "Grafisk teknik.",
+        "Room": "N112b"
+    },
+    {
+        "Team": "ggr080125",
+        "StartDate": "2025-11-12T09:00:00+01:00",
+        "Subject": "Grafisk teknik.",
+        "Education": "Grafisk teknik.",
+        "Room": "N112b"
+    },
+    {
+        "Team": "ggr080125",
+        "StartDate": "2025-11-12T09:30:00+01:00",
+        "Subject": "Grafisk teknik.",
+        "Education": "Grafisk teknik.",
+        "Room": "N112b"
+    },
+    {
+        "Team": "ggr080125",
+        "StartDate": "2025-11-12T11:00:00+01:00",
+        "Subject": "ETU",
+        "Education": "Grafisk teknik.",
+        "Room": "N112b"
+    },
+    {
+        "Team": "ggr080125",
+        "StartDate": "2025-11-12T12:00:00+01:00",
+        "Subject": "Grafisk teknik.",
+        "Education": "Grafisk teknik.",
+        "Room": "N112b"
+    },
+    {
+        "Team": "h0gr110125",
+        "StartDate": "2025-11-10T07:15:00+01:00",
+        "Subject": "andre trykmetod",
+        "Education": "Grafisk teknik.",
+        "Room": "N122"
+    },
+    {
+        "Team": "h0gr110125",
+        "StartDate": "2025-11-10T09:00:00+01:00",
+        "Subject": "andre trykmetod",
+        "Education": "Grafisk teknik.",
+        "Room": "N122"
+    },
+    {
+        "Team": "h0gr110125",
+        "StartDate": "2025-11-10T09:30:00+01:00",
+        "Subject": "andre trykmetod",
+        "Education": "Grafisk teknik.",
+        "Room": "N122"
+    },
+    {
+        "Team": "h0gr110125",
+        "StartDate": "2025-11-10T11:00:00+01:00",
+        "Subject": "andre trykmetod",
+        "Education": "Grafisk teknik.",
+        "Room": "N122"
+    },
+    {
+        "Team": "h0gr110125",
+        "StartDate": "2025-11-10T12:00:00+01:00",
+        "Subject": "andre trykmetod",
+        "Education": "Grafisk teknik.",
+        "Room": "N122"
+    },
+    {
+        "Team": "h0gr110125",
+        "StartDate": "2025-11-11T07:15:00+01:00",
+        "Subject": "andre trykmetod",
+        "Education": "Grafisk teknik.",
+        "Room": "N122"
+    },
+    {
+        "Team": "h0gr110125",
+        "StartDate": "2025-11-11T09:00:00+01:00",
+        "Subject": "andre trykmetod",
+        "Education": "Grafisk teknik.",
+        "Room": "N122"
+    },
+    {
+        "Team": "h0gr110125",
+        "StartDate": "2025-11-11T09:30:00+01:00",
+        "Subject": "andre trykmetod",
+        "Education": "Grafisk teknik.",
+        "Room": "N122"
+    },
+    {
+        "Team": "h0gr110125",
+        "StartDate": "2025-11-11T11:00:00+01:00",
+        "Subject": "andre trykmetod",
+        "Education": "Grafisk teknik.",
+        "Room": "N122"
+    },
+    {
+        "Team": "h0gr110125",
+        "StartDate": "2025-11-11T12:00:00+01:00",
+        "Subject": "andre trykmetod",
+        "Education": "Grafisk teknik.",
+        "Room": "N122"
+    },
+    {
+        "Team": "h0gr110125",
+        "StartDate": "2025-11-12T07:15:00+01:00",
+        "Subject": "andre trykmetod",
+        "Education": "Grafisk teknik.",
+        "Room": "N122"
+    },
+    {
+        "Team": "h0gr110125",
+        "StartDate": "2025-11-12T09:00:00+01:00",
+        "Subject": "andre trykmetod",
+        "Education": "Grafisk teknik.",
+        "Room": "N122"
+    },
+    {
+        "Team": "h0gr110125",
+        "StartDate": "2025-11-12T09:30:00+01:00",
+        "Subject": "andre trykmetod",
+        "Education": "Grafisk teknik.",
+        "Room": "N122"
+    },
+    {
+        "Team": "h0gr110125",
+        "StartDate": "2025-11-12T11:00:00+01:00",
+        "Subject": "andre trykmetod",
+        "Education": "Grafisk teknik.",
+        "Room": "N122"
+    },
+    {
+        "Team": "h0gr110125",
+        "StartDate": "2025-11-12T12:00:00+01:00",
+        "Subject": "andre trykmetod",
+        "Education": "Grafisk teknik.",
+        "Room": "N122"
+    },
+    {
+        "Team": "s0mg010125f",
+        "StartDate": "2025-11-10T06:45:00+01:00",
+        "Subject": "Praktik",
+        "Education": "Mediegrafiker",
+        "Room": "P015"
+    },
+    {
+        "Team": "s0mg010125f",
+        "StartDate": "2025-11-10T09:00:00+01:00",
+        "Subject": "Praktik",
+        "Education": "Mediegrafiker",
+        "Room": "P015"
+    },
+    {
+        "Team": "s0mg010125f",
+        "StartDate": "2025-11-10T11:00:00+01:00",
+        "Subject": "Praktik",
+        "Education": "Mediegrafiker",
+        "Room": "P015"
+    },
+    {
+        "Team": "s0mg010125f",
+        "StartDate": "2025-11-10T11:45:00+01:00",
+        "Subject": "Praktik",
+        "Education": "Mediegrafiker",
+        "Room": "P015"
+    },
+    {
+        "Team": "s0mg010125f",
+        "StartDate": "2025-11-10T12:45:00+01:00",
+        "Subject": "Praktik",
+        "Education": "Mediegrafiker",
+        "Room": "P015"
+    },
+    {
+        "Team": "s0mg010125f",
+        "StartDate": "2025-11-11T06:45:00+01:00",
+        "Subject": "Praktik",
+        "Education": "Mediegrafiker",
+        "Room": "P015"
+    },
+    {
+        "Team": "s0mg010125f",
+        "StartDate": "2025-11-11T09:00:00+01:00",
+        "Subject": "Praktik",
+        "Education": "Mediegrafiker",
+        "Room": "P015"
+    },
+    {
+        "Team": "s0mg010125f",
+        "StartDate": "2025-11-11T11:00:00+01:00",
+        "Subject": "Praktik",
+        "Education": "Mediegrafiker",
+        "Room": "P015"
+    },
+    {
+        "Team": "s0mg010125f",
+        "StartDate": "2025-11-11T11:45:00+01:00",
+        "Subject": "Praktik",
+        "Education": "Mediegrafiker",
+        "Room": "P015"
+    },
+    {
+        "Team": "s0mg010125f",
+        "StartDate": "2025-11-11T12:45:00+01:00",
+        "Subject": "Praktik",
+        "Education": "Mediegrafiker",
+        "Room": "P015"
+    },
+    {
+        "Team": "s0mg010125f",
+        "StartDate": "2025-11-12T06:45:00+01:00",
+        "Subject": "Praktik",
+        "Education": "Mediegrafiker",
+        "Room": "P015"
+    },
+    {
+        "Team": "s0mg010125f",
+        "StartDate": "2025-11-12T09:00:00+01:00",
+        "Subject": "Praktik",
+        "Education": "Mediegrafiker",
+        "Room": "P015"
+    },
+    {
+        "Team": "s0mg010125f",
+        "StartDate": "2025-11-12T11:00:00+01:00",
+        "Subject": "Praktik",
+        "Education": "Mediegrafiker",
+        "Room": "P015"
+    },
+    {
+        "Team": "s0mg010125f",
+        "StartDate": "2025-11-12T11:45:00+01:00",
+        "Subject": "Praktik",
+        "Education": "Mediegrafiker",
+        "Room": "P015"
+    },
+    {
+        "Team": "s0mg010125f",
+        "StartDate": "2025-11-12T12:45:00+01:00",
+        "Subject": "Praktik",
+        "Education": "Mediegrafiker",
+        "Room": "P015"
+    },
+    {
+        "Team": "gwe080125",
+        "StartDate": "2025-11-10T07:15:00+01:00",
+        "Subject": "Bonusfag",
+        "Education": "Webudvikler",
+        "Room": "P025"
+    },
+    {
+        "Team": "gwe080125",
+        "StartDate": "2025-11-10T09:00:00+01:00",
+        "Subject": "Bonusfag",
+        "Education": "Webudvikler",
+        "Room": "P025"
+    },
+    {
+        "Team": "gwe080125",
+        "StartDate": "2025-11-10T09:30:00+01:00",
+        "Subject": "Webudvikler",
+        "Education": "Webudvikler",
+        "Room": "P025"
+    },
+    {
+        "Team": "gwe080125",
+        "StartDate": "2025-11-10T11:00:00+01:00",
+        "Subject": "Webudvikler",
+        "Education": "Webudvikler",
+        "Room": "P025"
+    },
+    {
+        "Team": "gwe080125",
+        "StartDate": "2025-11-10T12:00:00+01:00",
+        "Subject": "Webudvikler",
+        "Education": "Webudvikler",
+        "Room": "P025"
+    },
+    {
+        "Team": "gwe080125",
+        "StartDate": "2025-11-11T07:15:00+01:00",
+        "Subject": "Webudvikler",
+        "Education": "Webudvikler",
+        "Room": "P025"
+    },
+    {
+        "Team": "gwe080125",
+        "StartDate": "2025-11-11T09:00:00+01:00",
+        "Subject": "Webudvikler",
+        "Education": "Webudvikler",
+        "Room": "P025"
+    },
+    {
+        "Team": "gwe080125",
+        "StartDate": "2025-11-11T09:30:00+01:00",
+        "Subject": "Webudvikler",
+        "Education": "Webudvikler",
+        "Room": "P025"
+    },
+    {
+        "Team": "gwe080125",
+        "StartDate": "2025-11-11T11:00:00+01:00",
+        "Subject": "Webudvikler",
+        "Education": "Webudvikler",
+        "Room": "P025"
+    },
+    {
+        "Team": "gwe080125",
+        "StartDate": "2025-11-11T12:00:00+01:00",
+        "Subject": "Webudvikler",
+        "Education": "Webudvikler",
+        "Room": "P025"
+    },
+    {
+        "Team": "gwe080125",
+        "StartDate": "2025-11-12T07:15:00+01:00",
+        "Subject": "Webudvikler",
+        "Education": "Webudvikler",
+        "Room": "P025"
+    },
+    {
+        "Team": "gwe080125",
+        "StartDate": "2025-11-12T09:00:00+01:00",
+        "Subject": "Webudvikler",
+        "Education": "Webudvikler",
+        "Room": "P025"
+    },
+    {
+        "Team": "gwe080125",
+        "StartDate": "2025-11-12T09:30:00+01:00",
+        "Subject": "Webudvikler",
+        "Education": "Webudvikler",
+        "Room": "P025"
+    },
+    {
+        "Team": "gwe080125",
+        "StartDate": "2025-11-12T11:00:00+01:00",
+        "Subject": "ETU",
+        "Education": "Webudvikler",
+        "Room": "P025"
+    },
+    {
+        "Team": "gwe080125",
+        "StartDate": "2025-11-12T12:00:00+01:00",
+        "Subject": "Webudvikler",
+        "Education": "Webudvikler",
+        "Room": "P025"
+    },
+    {
+        "Team": "s0gr010125f",
+        "StartDate": "2025-11-10T07:15:00+01:00",
+        "Subject": "Praktik",
+        "Education": "Grafisk teknik.",
+        "Room": "N120"
+    },
+    {
+        "Team": "s0gr010125f",
+        "StartDate": "2025-11-10T08:20:00+01:00",
+        "Subject": "Praktik",
+        "Education": "Grafisk teknik.",
+        "Room": "N120"
+    },
+    {
+        "Team": "s0gr010125f",
+        "StartDate": "2025-11-10T09:30:00+01:00",
+        "Subject": "Praktik",
+        "Education": "Grafisk teknik.",
+        "Room": "N120"
+    },
+    {
+        "Team": "s0gr010125f",
+        "StartDate": "2025-11-10T11:00:00+01:00",
+        "Subject": "Praktik",
+        "Education": "Grafisk teknik.",
+        "Room": "N120"
+    },
+    {
+        "Team": "s0gr010125f",
+        "StartDate": "2025-11-11T07:15:00+01:00",
+        "Subject": "Praktik",
+        "Education": "Grafisk teknik.",
+        "Room": "N120"
+    },
+    {
+        "Team": "s0gr010125f",
+        "StartDate": "2025-11-11T08:20:00+01:00",
+        "Subject": "Praktik",
+        "Education": "Grafisk teknik.",
+        "Room": "N120"
+    },
+    {
+        "Team": "s0gr010125f",
+        "StartDate": "2025-11-11T09:30:00+01:00",
+        "Subject": "Praktik",
+        "Education": "Grafisk teknik.",
+        "Room": "N120"
+    },
+    {
+        "Team": "s0gr010125f",
+        "StartDate": "2025-11-11T11:00:00+01:00",
+        "Subject": "Praktik",
+        "Education": "Grafisk teknik.",
+        "Room": "N120"
+    },
+    {
+        "Team": "s0gr010125f",
+        "StartDate": "2025-11-12T07:15:00+01:00",
+        "Subject": "Praktik",
+        "Education": "Grafisk teknik.",
+        "Room": "N120"
+    },
+    {
+        "Team": "s0gr010125f",
+        "StartDate": "2025-11-12T08:20:00+01:00",
+        "Subject": "Praktik",
+        "Education": "Grafisk teknik.",
+        "Room": "N120"
+    },
+    {
+        "Team": "s0gr010125f",
+        "StartDate": "2025-11-12T09:30:00+01:00",
+        "Subject": "Praktik",
+        "Education": "Grafisk teknik.",
+        "Room": "N120"
+    },
+    {
+        "Team": "s0gr010125f",
+        "StartDate": "2025-11-12T11:00:00+01:00",
+        "Subject": "Praktik",
+        "Education": "Grafisk teknik.",
+        "Room": "N120"
+    },
+    {
+        "Team": "h1we080125",
+        "StartDate": "2025-11-10T07:15:00+01:00",
+        "Subject": "Praktisk web",
+        "Education": "Webudvikler",
+        "Room": "P026"
+    },
+    {
+        "Team": "h1we080125",
+        "StartDate": "2025-11-10T09:00:00+01:00",
+        "Subject": "Praktisk web",
+        "Education": "Webudvikler",
+        "Room": "P026"
+    },
+    {
+        "Team": "h1we080125",
+        "StartDate": "2025-11-10T09:30:00+01:00",
+        "Subject": "Praktisk web",
+        "Education": "Webudvikler",
+        "Room": "P026"
+    },
+    {
+        "Team": "h1we080125",
+        "StartDate": "2025-11-10T11:00:00+01:00",
+        "Subject": "Praktisk web",
+        "Education": "Webudvikler",
+        "Room": "P026"
+    },
+    {
+        "Team": "h1we080125",
+        "StartDate": "2025-11-10T12:00:00+01:00",
+        "Subject": "Praktisk web",
+        "Education": "Webudvikler",
+        "Room": "P026"
+    },
+    {
+        "Team": "h1we080125",
+        "StartDate": "2025-11-11T07:15:00+01:00",
+        "Subject": "Praktisk web",
+        "Education": "Webudvikler",
+        "Room": "P026"
+    },
+    {
+        "Team": "h1we080125",
+        "StartDate": "2025-11-11T09:00:00+01:00",
+        "Subject": "Praktisk web",
+        "Education": "Webudvikler",
+        "Room": "P026"
+    },
+    {
+        "Team": "h1we080125",
+        "StartDate": "2025-11-11T09:30:00+01:00",
+        "Subject": "Praktisk web",
+        "Education": "Webudvikler",
+        "Room": "P026"
+    },
+    {
+        "Team": "h1we080125",
+        "StartDate": "2025-11-11T11:00:00+01:00",
+        "Subject": "Praktisk web",
+        "Education": "Webudvikler",
+        "Room": "P026"
+    },
+    {
+        "Team": "h1we080125",
+        "StartDate": "2025-11-11T12:00:00+01:00",
+        "Subject": "Praktisk web",
+        "Education": "Webudvikler",
+        "Room": "P026"
+    },
+    {
+        "Team": "h1we080125",
+        "StartDate": "2025-11-12T07:15:00+01:00",
+        "Subject": "Praktisk web",
+        "Education": "Webudvikler",
+        "Room": "P026"
+    },
+    {
+        "Team": "h1we080125",
+        "StartDate": "2025-11-12T09:00:00+01:00",
+        "Subject": "Praktisk web",
+        "Education": "Webudvikler",
+        "Room": "P026"
+    },
+    {
+        "Team": "h1we080125",
+        "StartDate": "2025-11-12T09:30:00+01:00",
+        "Subject": "Praktisk web",
+        "Education": "Webudvikler",
+        "Room": "P026"
+    },
+    {
+        "Team": "h1we080125",
+        "StartDate": "2025-11-12T11:00:00+01:00",
+        "Subject": "Praktisk web",
+        "Education": "Webudvikler",
+        "Room": "P026"
+    },
+    {
+        "Team": "h1we080125",
+        "StartDate": "2025-11-12T12:00:00+01:00",
+        "Subject": "Praktisk web",
+        "Education": "Webudvikler",
+        "Room": "P026"
+    },
+    {
+        "Team": "gmp080125m",
+        "StartDate": "2025-11-10T07:15:00+01:00",
+        "Subject": "matematik",
+        "Education": "Grafisk teknik.",
+        "Room": "P027-3"
+    },
+    {
+        "Team": "gmp080125m",
+        "StartDate": "2025-11-10T09:00:00+01:00",
+        "Subject": "matematik",
+        "Education": "Grafisk teknik.",
+        "Room": "P027-3"
+    },
+    {
+        "Team": "gga100125",
+        "StartDate": "2025-11-10T07:15:00+01:00",
+        "Subject": "tjener.rest.",
+        "Education": "Gastronom",
+        "Room": "H113"
+    },
+    {
+        "Team": "gga100125",
+        "StartDate": "2025-11-10T09:00:00+01:00",
+        "Subject": "tjener.rest.",
+        "Education": "Gastronom",
+        "Room": "H113"
+    },
+    {
+        "Team": "gga100125",
+        "StartDate": "2025-11-10T09:30:00+01:00",
+        "Subject": "tjener.rest.",
+        "Education": "Gastronom",
+        "Room": "H113"
+    },
+    {
+        "Team": "gga100125",
+        "StartDate": "2025-11-12T07:15:00+01:00",
+        "Subject": "gast.køkken",
+        "Education": "Gastronom",
+        "Room": "E103"
+    },
+    {
+        "Team": "gga100125",
+        "StartDate": "2025-11-12T09:00:00+01:00",
+        "Subject": "gast.køkken",
+        "Education": "Gastronom",
+        "Room": "E103"
+    },
+    {
+        "Team": "gga100125",
+        "StartDate": "2025-11-12T09:30:00+01:00",
+        "Subject": "gast.køkken",
+        "Education": "Gastronom",
+        "Room": "E103"
+    },
+    {
+        "Team": "gga100125",
+        "StartDate": "2025-11-11T07:15:00+01:00",
+        "Subject": "ETU",
+        "Education": "Gastronom",
+        "Room": "C116"
+    },
+    {
+        "Team": "gga100125",
+        "StartDate": "2025-11-11T09:00:00+01:00",
+        "Subject": "Fødevarehyg.",
+        "Education": "Gastronom",
+        "Room": "C116"
+    },
+    {
+        "Team": "gga100125",
+        "StartDate": "2025-11-11T09:30:00+01:00",
+        "Subject": "Fødevarehyg.",
+        "Education": "Gastronom",
+        "Room": "C116"
+    },
+    {
+        "Team": "gga100125",
+        "StartDate": "2025-11-11T11:00:00+01:00",
+        "Subject": "gast.køkken",
+        "Education": "Gastronom",
+        "Room": "E102"
+    },
+    {
+        "Team": "gga100125",
+        "StartDate": "2025-11-11T12:00:00+01:00",
+        "Subject": "gast.køkken",
+        "Education": "Gastronom",
+        "Room": "E102"
+    },
+    {
+        "Team": "gga100125",
+        "StartDate": "2025-11-12T11:00:00+01:00",
+        "Subject": "Studietid",
+        "Education": "Gastronom",
+        "Room": ""
+    },
+    {
+        "Team": "gga100125",
+        "StartDate": "2025-11-12T12:00:00+01:00",
+        "Subject": "Studietid",
+        "Education": "Gastronom",
+        "Room": ""
+    },
+    {
+        "Team": "gga100125",
+        "StartDate": "2025-11-10T11:00:00+01:00",
+        "Subject": "tjener.rest.",
+        "Education": "Gastronom",
+        "Room": "H113"
+    },
+    {
+        "Team": "gga100125",
+        "StartDate": "2025-11-10T12:00:00+01:00",
+        "Subject": "tjener.rest.",
+        "Education": "Gastronom",
+        "Room": "H113"
+    }
+]
