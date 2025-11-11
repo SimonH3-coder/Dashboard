@@ -1,4 +1,3 @@
-// js/controller/scheduleController.js
 import { getSchedule, getRelevantLessons } from '../model/scheduleModel.js'
 import {
   showLoading,

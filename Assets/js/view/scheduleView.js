@@ -1,5 +1,3 @@
-// js/view/scheduleView.js
-
 function formatTime(dateString) {
   const date = new Date(dateString)
   return date.toLocaleTimeString('da-DK', {
@@ -49,9 +47,9 @@ export function renderSchedule(container, lessons) {
   let lastDateKey = null
 
   lessons.forEach(item => {
-    const dateKey = item.StartDate.slice(0, 10) // e.g. "2025-11-11"
+    const dateKey = item.StartDate.slice(0, 10)
 
-    // new day row when the date changes
+    // new day when the date changes
     if (dateKey !== lastDateKey) {
       const label = formatDayLabel(item.StartDate)
       const capitalized =
