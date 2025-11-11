@@ -1,4 +1,3 @@
-// js/model/scheduleModel.js
 const SKEMA_API =
   'https://iws.itcn.dk/techcollege/schedules?departmentcode=smed'
 
@@ -13,13 +12,11 @@ async function fetchAPI(url) {
   }
 }
 
-// Get raw array from API
 export async function getSchedule() {
   const skemaRaw = await fetchAPI(SKEMA_API)
   return skemaRaw?.value ?? []
 }
 
-// Filter + sort: only Mediegrafiker/Webudvikler, within next 24h
 export function getRelevantLessons(allLessons, now = new Date()) {
   const ONE_DAY_MS = 24 * 60 * 60 * 1000
   const tomorrow = new Date(now.getTime() + ONE_DAY_MS)
@@ -33,7 +30,6 @@ export function getRelevantLessons(allLessons, now = new Date()) {
     return isRelevantEducation && start >= now && start <= tomorrow
   })
 
-  // sort in-place
   filtered.sort(
     (a, b) => new Date(a.StartDate) - new Date(b.StartDate)
   )
