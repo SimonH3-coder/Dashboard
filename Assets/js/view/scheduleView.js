@@ -49,7 +49,6 @@ export function renderSchedule(container, lessons) {
   lessons.forEach(item => {
     const dateKey = item.StartDate.slice(0, 10)
 
-    // new day when the date changes
     if (dateKey !== lastDateKey) {
       const label = formatDayLabel(item.StartDate)
       const capitalized =
