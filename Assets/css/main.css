@@ -1,0 +1,26 @@
+/* === Weather widget === */
+.weather {
+  width: 160px;
+  height: 100px;
+  background: #198cc8; /* samme blå som ugens menu */
+  color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  box-sizing: border-box;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+}
+
+/* Big temperature */
+.weather-temp {
+  font-size: 3rem;      /* stort tal */
+  font-weight: 700;
+  line-height: 1;
+}
+
+/* Description under ("Let skyet") */
+.weather-description {
+  margin-top: 0.3rem;
+  font-size: 1rem;
+}
