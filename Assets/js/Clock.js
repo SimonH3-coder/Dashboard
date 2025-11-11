@@ -10,3 +10,15 @@ export const getTime = () => {
 
   return `${hours}:${minutes}:${seconds}`;
 };
+
+export const getDate = () => {
+  const now = new Date();
+  let day = now.getDate();
+  let month = now.getMonth() + 1;
+  let year = now.getFullYear();
+
+  day = day < 10 ? "0" + day : day;
+  month = month < 10 ? "0" + month : month;
+
+  return `${day}. ${month} ${year}`;
+};
