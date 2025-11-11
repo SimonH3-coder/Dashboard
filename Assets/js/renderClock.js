@@ -13,7 +13,7 @@ export const getTime = () => {
 
 export const getDate = () => {
   const now = new Date();
-  const months = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"];
+  const months = ["Januar", "Februar", "Marts", "April", "Maj", "Juni", "Juli", "August", "September", "Oktober", "November", "December"];
   let day = now.getDate();
   let month = months[now.getMonth()];
   let year = now.getFullYear();
