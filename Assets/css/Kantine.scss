@@ -1,0 +1,102 @@
+// kantine.scss
+
+$canteen-bg: #198cc8;
+$canteen-text: #ffffff;
+$canteen-font: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+
+.canteen {
+  width: 260px; // tilpas til dit layout
+  background: $canteen-bg;
+  color: $canteen-text;
+  padding: 1.25rem 1.5rem;
+  font-family: $canteen-font;
+  box-sizing: border-box;
+
+  &__header {
+    display: flex;
+    align-items: center;
+    margin-bottom: 1rem;
+    border-bottom: 2px solid $canteen-text;
+    padding-bottom: 0.4rem;
+  }
+
+  // Lille “burger + drink” ikon som blok – kan udskiftes med rigtig SVG
+  &__icon {
+    width: 32px;
+    height: 32px;
+    margin-right: 0.6rem;
+    position: relative;
+
+    &::before,
+    &::after {
+      content: '';
+      position: absolute;
+      background: $canteen-text;
+    }
+
+    // “burger”
+    &::before {
+      width: 26px;
+      height: 6px;
+      bottom: 5px;
+      left: 3px;
+      border-radius: 3px;
+      box-shadow: 0 -7px 0 $canteen-text;
+    }
+
+    // “drink”
+    &::after {
+      width: 6px;
+      height: 16px;
+      top: 2px;
+      right: 4px;
+      border-radius: 2px;
+    }
+  }
+
+  &__title-wrap {
+    display: flex;
+    flex-direction: column;
+    gap: 0.1rem;
+  }
+
+  &__title {
+    font-weight: 800;
+    letter-spacing: 0.08em;
+    font-size: 1.05rem;
+  }
+
+  &__week {
+    font-size: 0.75rem;
+    opacity: 0.9;
+  }
+
+  &__list {
+    list-style: none;
+    margin: 0;
+    margin-top: 0.75rem;
+    padding: 0;
+  }
+
+  &__item {
+    display: flex;
+    gap: 0.4rem;
+    margin-bottom: 0.25rem;
+    font-size: 0.9rem;
+  }
+
+  &__day {
+    min-width: 4.5rem;
+    font-weight: 500;
+  }
+
+  &__dish {
+    flex: 1;
+  }
+
+  &__loading,
+  &__error,
+  &__empty {
+    font-size: 0.9rem;
+  }
+}
