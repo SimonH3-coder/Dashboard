@@ -1,4 +1,4 @@
-export const updateClock = () => {
+export const getTime = () => {
   const now = new Date();
   let hours = now.getHours();
   let minutes = now.getMinutes();
@@ -7,7 +7,6 @@ export const updateClock = () => {
   hours = hours < 10 ? "0" + hours : hours;
   minutes = minutes < 10 ? "0" + minutes : minutes;
   seconds = seconds < 10 ? "0" + seconds : seconds;
-};
 
-setInterval(updateClock, 1000);
-updateClock();
+  return `${hours}:${minutes}:${seconds}`;
+};
