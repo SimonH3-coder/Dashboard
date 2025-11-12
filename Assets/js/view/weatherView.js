@@ -20,7 +20,9 @@ export function renderWeather(container, weather) {
 
   container.innerHTML = `
     <div class="weather">
-      <div class="weather-temp">${temp}°</div>
+      <div class="weather-temp">
+        <span class="value">${temp}</span><span class="deg">°</span>
+      </div>
       <div class="weather-description">
         ${description.charAt(0).toUpperCase() + description.slice(1)}
       </div>
