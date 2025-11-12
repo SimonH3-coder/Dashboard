@@ -1,10 +1,5 @@
 import { getSchedule, getRelevantLessons } from '../model/scheduleModel.js'
-import {
-  showLoading,
-  showNoData,
-  showError,
-  renderSchedule,
-} from '../view/scheduleView.js'
+import { showLoading, showNoData, showError, renderSchedule, } from '../view/scheduleView.js'
 
 async function initSchedule() {
   const container = document.getElementById('schedule')
