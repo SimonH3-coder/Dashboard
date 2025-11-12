@@ -8,7 +8,7 @@ export const getTime = () => {
   minutes = minutes < 10 ? "0" + minutes : minutes;
   seconds = seconds < 10 ? "0" + seconds : seconds;
 
-  return `${hours}:${minutes}:${seconds}`;
+  return `${hours}:${minutes}`;
 };
 
 export const getDate = () => {
@@ -19,7 +19,6 @@ export const getDate = () => {
   let year = now.getFullYear();
 
   day = day < 10 ? "0" + day : day;
-  month = month < 10 ? "0" + month : month;
 
   return `${day}. ${month} ${year}`;
 };
