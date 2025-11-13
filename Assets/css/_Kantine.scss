@@ -1,4 +1,4 @@
-@use '_Variables' as *;
+@use "_Variables" as *;
 
 .canteen {
   width: 100%;
@@ -15,18 +15,22 @@
   }
 
   &-icon {
-    width: 50px; height: 50px;
+    width: 50px;
+    height: 50px;
     background: url("../images/Icon-map-food.png") center/contain no-repeat;
     filter: brightness(0) invert(1);
     margin-bottom: -0.5rem;
   }
 
-  &-title-wrap { display: flex; flex-direction: column; }
+  &-title-wrap {
+    display: flex;
+    flex-direction: column;
+  }
 
   &-title {
     font-weight: 900;
     font-size: 1.7rem;
-    letter-spacing: .04em;
+    letter-spacing: 0.04em;
     text-transform: uppercase;
     line-height: 1;
     margin-bottom: -2rem;
@@ -37,7 +41,9 @@
     padding-left: 18px;
     display: grid;
     gap: 6px;
-    li { list-style: disc; }
+    li {
+      list-style: disc;
+    }
   }
 
   &-item {
@@ -46,5 +52,7 @@
     gap: 10px;
   }
 
-  &-day  { opacity: .95; }
+  &-day {
+    opacity: 0.95;
+  }
 }
