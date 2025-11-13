@@ -1,0 +1,17 @@
+@use "_Variables" as *;
+
+#bustider {
+    .canteen-header {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin: 8px 0 2px;
+    padding: 10px 0 8px;
+    border-bottom: 2px solid #fff;
+}
+
+    h3{
+        font-weight: 400;
+    }
+    
+}
