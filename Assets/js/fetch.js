@@ -3,12 +3,12 @@
 fetch("../../DataFromAPIs/Bus.json")
   .then((response) => response.json())
   .then((data) => {
-    const departures = data.Departure.map((element) => ({
+    const nextFive = Array.isArray(data.Departure) ? data.Departure.slice(0, 5) : [];
+    const departures = nextFive.map((element) => ({
       stop: element.stop,
       time: element.time,
-      line: element.line,
-
-      line: element.ProductAtStop.line,
+      // prefer ProductAtStop.line if present, otherwise fall back to element.line
+      line: element.ProductAtStop?.line ?? element.line,
       direction: element.direction,
     }));
     console.log(departures);
