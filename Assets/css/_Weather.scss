@@ -1,0 +1,39 @@
+@use '_Variables' as *;
+
+.weather {
+  color: $white;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  gap: 6px;
+  margin-bottom: 6px;
+}
+
+.weather-temp {
+  display: inline-flex;
+  align-items: baseline;
+  font-weight: 800;
+  line-height: 1;
+
+  .value {
+    font-size: 3.6rem;
+  }
+
+  .deg {
+    display: inline-block;
+    font-size: 1.9rem;
+    transform: translateY(-5px);
+    margin-left: 4px;
+  }
+
+  &:not(:has(.deg)) {
+    font-size: 3.6rem;
+  }
+}
+
+.weather-description {
+  font-size: 1rem;
+  opacity: 0.98;
+}

@@ -1,0 +1,58 @@
+@use "_Variables" as *;
+
+.canteen {
+  width: 100%;
+  color: $white;
+  font-weight: 400;
+
+  &-header {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin: 8px 0 2px;
+    padding: 10px 0 8px;
+    border-bottom: 2px solid $white;
+  }
+
+  &-icon {
+    width: 50px;
+    height: 50px;
+    background: url("../images/Icon-map-food.png") center/contain no-repeat;
+    filter: brightness(0) invert(1);
+    margin-bottom: -0.5rem;
+  }
+
+  &-title-wrap {
+    display: flex;
+    flex-direction: column;
+  }
+
+  &-title {
+    font-weight: 900;
+    font-size: 1.7rem;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+    line-height: 1;
+    margin-bottom: -2rem;
+  }
+
+  &-list {
+    margin: 10px 0 0;
+    padding-left: 18px;
+    display: grid;
+    gap: 6px;
+    li {
+      list-style: disc;
+    }
+  }
+
+  &-item {
+    display: grid;
+    grid-template-columns: 80px 1fr;
+    gap: 10px;
+  }
+
+  &-day {
+    opacity: 0.95;
+  }
+}
