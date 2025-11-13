@@ -5,7 +5,7 @@ fetch("./DataFromAPI/Bus.json")
       stop: element.stop,
       time: element.time,
       line: element.line,
-      rtTime: element.rtTim e,
+      rtTime: element.rtTime,
       line: element.ProductAtStop.line,
       direction: element.direction,
     }));
