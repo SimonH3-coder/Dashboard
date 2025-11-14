@@ -77,11 +77,7 @@ function renderDepartures(departures) {
     const mins = d.minutesUntil === 0 ? "Nu" : `${d.minutesUntil} min`;
 
     const item = document.createElement("div");
-    item.style.display = "flex";
-    item.style.justifyContent = "space-between";
-    item.style.alignItems = "center";
-    item.style.width = "100%";
-    item.style.marginBottom = "4px";
+    item.className="busTitle"
 
     const left = document.createElement("h3");
     left.textContent = `${d.line} ${d.direction}`;
