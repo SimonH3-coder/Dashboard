@@ -3,6 +3,7 @@
 @use '_Weather';
 @use '_Kantine';
 @use '_Schedule';
+@use '_Bus';
 * { box-sizing: border-box; }
 html, body { height: 100%; }
 body { margin: 0; font-family: $font; color: $ink; background: $white; }
