@@ -1,24 +1,27 @@
-console.log("fetch.js IS RUNNING");
+const API_URL = "https://www.rejseplanen.dk/api/nearbyDepartureBoard";
+const ACCESS_ID = ""; // your API key Dont paste it here we will insert the env on netlify 
 
-// IMPORTANT: Path is relative to index.html inside Dashboard/
-const BUS_URL = "./DataFromAPIs/Bus.json";
+async function fetchNearbyDepartures() {
+  const url = new URL(API_URL);
 
-// Fetch JSON
-async function fetchBusData() {
-  console.log("Loading:", BUS_URL);
+  url.searchParams.set("accessId", ACCESS_ID);
+  url.searchParams.set("originCoordLat", "57.048731");
+  url.searchParams.set("originCoordLong", "9.968186");
+  url.searchParams.set("format", "json");
 
-  const response = await fetch(BUS_URL);
+  const response = await fetch(url.toString());
+
   if (!response.ok) {
-    throw new Error(`HTTP fejl: ${response.status} ${response.statusText}`);
+    throw new Error(`API error: ${response.status} ${response.statusText}`);
   }
 
-  console.log("Bus.json LOADED");
+  console.log("LIVE API LOADED");
   return response.json();
 }
 
-// Parse bus departures into JavaScript objects
 function parseDepartures(data) {
   console.log("Parsing departures...");
+
 
   if (!data || !Array.isArray(data.Departure)) {
     console.log("No departures found in JSON");
@@ -38,18 +41,16 @@ function parseDepartures(data) {
       line: element.ProductAtStop?.line || element.line,
       direction: element.direction,
       departureDate,
-      timeLabel: timeStr.slice(0, 5), // "HH:MM"
+      timeLabel: timeStr.slice(0, 5), // HH:MM
     };
   });
 }
 
-// Calculate minutes from now
 function getMinutesUntil(departureDate) {
   const diffMs = departureDate - new Date();
   return Math.floor(diffMs / 60000);
 }
 
-// Render items into #bustider
 function renderDepartures(departures) {
   console.log("Rendering...");
 
@@ -67,8 +68,6 @@ function renderDepartures(departures) {
     .sort((a, b) => a.departureDate - b.departureDate)
     .slice(0, 6);
 
-  console.log("Upcoming departures:", upcoming);
-
   if (upcoming.length === 0) {
     bustider.innerHTML = "<h3>Ingen kommende afgange</h3>";
     return;
@@ -76,18 +75,35 @@ function renderDepartures(departures) {
 
   upcoming.forEach((d) => {
     const mins = d.minutesUntil === 0 ? "Nu" : `${d.minutesUntil} min`;
-    const item = document.createElement("h3");
-    item.textContent = `${d.line} ${d.direction}  ${d.timeLabel} (${mins})`;
+
+    const item = document.createElement("div");
+    item.style.display = "flex";
+    item.style.justifyContent = "space-between";
+    item.style.alignItems = "center";
+    item.style.width = "100%";
+    item.style.marginBottom = "4px";
+
+    const left = document.createElement("h3");
+    left.textContent = `${d.line} ${d.direction}`;
+
+    const right = document.createElement("h3");
+    right.textContent = `${mins}`;
+
+    item.appendChild(left);
+    item.appendChild(right);
+
     bustider.appendChild(item);
   });
 }
 
-// Load + render
+
+
+
 async function updateBusTimes() {
   console.log("updateBusTimes() CALLED");
 
   try {
-    const data = await fetchBusData();
+    const data = await fetchNearbyDepartures();
     const departures = parseDepartures(data);
     renderDepartures(departures);
 
@@ -96,8 +112,13 @@ async function updateBusTimes() {
   }
 }
 
-// First run
-updateBusTimes();
 
-// Auto-update every 30 seconds
-setInterval(updateBusTimes, 30000);
+updateBusTimes();  
+//!!!!!
+//DONT FUCKING CHANGE THE TIME OR WE MIGHT LOSE THE KEY AND THE BOARD WILL CRASHH
+//!!!!!
+setInterval(updateBusTimes, 55000);   // update every 55 sec (safe for API limit) max 50.000 calls and we do 47.000 a month
+//!!!!!
+//DONT FUCKING CHANGE THE TIME OR WE MIGHT LOSE THE KEY AND THE BOARD WILL CRASHH
+//!!!!!
+const BUS_URL = "./DataFromAPIs/Bus.json";
